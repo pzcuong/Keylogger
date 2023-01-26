@@ -1,0 +1,200 @@
+2023-01-26 16:20:18:427291: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:20:23:629061: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:20:23:870299: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:20:31:100082: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:20:31:361989: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:20:35:292656: keylogger.py - Keylogger - Visual Studio Code - 'c'
+2023-01-26 16:20:35:855346: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
+2023-01-26 16:20:43:174936: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:20:43:368462: ● keylogger.py - Keylogger - Visual Studio Code - '\x16'
+2023-01-26 16:20:44:220483: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:20:44:364307: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
+2023-01-26 16:21:24:384472: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:21:25:195613: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:21:27:002337: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:21:27:423033: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:21:54:650881: ● Windows_runner.py - Keylogger - Visual Studio Code - "'"
+2023-01-26 16:21:55:091534: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
+2023-01-26 16:21:55:350713: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
+2023-01-26 16:21:55:817428: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
+2023-01-26 16:21:56:425418: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
+2023-01-26 16:21:56:746199: ● Windows_runner.py - Keylogger - Visual Studio Code - "'"
+2023-01-26 16:21:57:260818: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:21:57:768553: ● Windows_runner.py - Keylogger - Visual Studio Code - '\x13'
+2023-01-26 16:22:06:188944: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:06:822363: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:07:058455: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:22:15:758861: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:16:786129: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:18:130539: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:18:338724: keylogger.py - Keylogger - Visual Studio Code - '\x16'
+2023-01-26 16:22:19:078901: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:19:315016: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
+2023-01-26 16:22:20:186962: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:48:128345: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:48:808830: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:22:54:172571: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:56:836885: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:57:392978: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:57:835635: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:22:58:165988: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:23:05:882053: ● keylogger.py - Keylogger - Visual Studio Code - Key.enter
+==> 2023-01-26 16:23:05:882053: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l '\x03' Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.enter
+2023-01-26 16:23:06:150834: ● keylogger.py - Keylogger - Visual Studio Code - Key.enter
+==> 2023-01-26 16:23:06:150834: ● keylogger.py - Keylogger - Visual Studio Code - Key.enter
+2023-01-26 16:23:06:258716: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:23:06:519573: ● keylogger.py - Keylogger - Visual Studio Code - '\x16'
+2023-01-26 16:23:07:052302: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:23:07:296062: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
+2023-01-26 16:23:07:809584: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
+2023-01-26 16:23:08:254951: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
+2023-01-26 16:25:36:319742: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:25:37:233736: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:25:37:761294: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:25:41:678407: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:25:42:012490: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:25:52:795754: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:25:53:061455: keylogger.py - Keylogger - Visual Studio Code - '\x16'
+2023-01-26 16:25:54:395125: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:25:54:529946: ● keylogger.py - Keylogger - Visual Studio Code - '\x13'
+2023-01-26 16:26:04:318247: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:26:04:783042: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:26:39:176352: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:26:41:744824: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:26:42:490691: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:27:48:506763: keylogger.py - Keylogger - Visual Studio Code - Key.space
+2023-01-26 16:27:49:602974: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
+2023-01-26 16:27:52:955045: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:27:54:411218: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:27:54:844684: ● keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:28:25:782131: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:28:27:782075: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:28:28:204605: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:28:36:178206: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:28:36:422150: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:28:53:725603: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:28:54:021527: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:29:00:077732: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'c'
+2023-01-26 16:29:00:088217: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'o'
+2023-01-26 16:29:00:285929: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'm'
+2023-01-26 16:29:00:486677: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'p'
+2023-01-26 16:29:00:619268: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'a'
+2023-01-26 16:29:00:973439: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'r'
+2023-01-26 16:29:01:429748: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'e'
+2023-01-26 16:29:01:608991: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.space
+2023-01-26 16:29:01:805389: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - '2'
+2023-01-26 16:29:01:961684: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.space
+2023-01-26 16:29:02:168536: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 's'
+2023-01-26 16:29:02:431500: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 't'
+2023-01-26 16:29:02:610580: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'r'
+2023-01-26 16:29:02:738435: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'i'
+2023-01-26 16:29:02:955814: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'n'
+2023-01-26 16:29:03:086688: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'g'
+2023-01-26 16:29:03:173779: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.space
+2023-01-26 16:29:03:502236: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'p'
+2023-01-26 16:29:03:738458: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'y'
+2023-01-26 16:29:03:869050: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 't'
+2023-01-26 16:29:03:963299: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'h'
+2023-01-26 16:29:04:138290: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'o'
+2023-01-26 16:29:04:836657: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'n'
+2023-01-26 16:29:05:101113: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.enter
+==> 2023-01-26 16:29:05:101113: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.ctrl_l '\x03' 'c' 'o' 'm' 'p' 'a' 'r' 'e' Key.space '2' Key.space 's' 't' 'r' 'i' 'n' 'g' Key.space 'p' 'y' 't' 'h' 'o' 'n' Key.enter
+2023-01-26 16:29:58:868017: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:29:59:575666: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:30:00:721555: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:30:00:894312: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:30:05:260590: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:30:05:456815: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:30:21:694414: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
+  init.run()
+
+2023-01-26 16:30:21:700542: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:30:22:171602: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
+  init.run()
+
+2023-01-26 16:30:22:171602: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:30:22:611756: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
+  init.run()
+
+2023-01-26 16:30:22:612272: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:30:22:797907: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
+  init.run()
+
+2023-01-26 16:30:22:797907: keylogger.py - Keylogger - Visual Studio Code - '\x03'
+2023-01-26 16:44:01:353522: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
+  init.run()
+2023-01-26 16:44:01:355485: keylogger.py - Keylogger - Visual Studio Code - Key.space
+2023-01-26 16:44:01:967154: ● keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
+  init.run()
+2023-01-26 16:44:01:967154: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
+2023-01-26 16:45:05:393594: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
+2023-01-26 16:45:05:395390: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:45:05:965185: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
+2023-01-26 16:45:05:965185: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:45:06:262428: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
+2023-01-26 16:45:06:264262: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:45:07:826327: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
+2023-01-26 16:45:07:829006: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:45:08:309764: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
+2023-01-26 16:45:08:309764: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:47:00:316080: keylogger.py - Keylogger - Visual Studio Code - Clipboard: # Setup the listener threads
+keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
+mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
+
+# Start the threads and join them so the script doesn't end early
+keyboard_listener.start()
+mouse_listener.start()
+keyboard_listener.join()
+mouse_listener.join()
+2023-01-26 16:47:00:316080: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:47:00:864674: keylogger.py - Keylogger - Visual Studio Code - Clipboard: # Setup the listener threads
+keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
+mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
+
+# Start the threads and join them so the script doesn't end early
+keyboard_listener.start()
+mouse_listener.start()
+keyboard_listener.join()
+mouse_listener.join()
+2023-01-26 16:47:00:864674: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:50:49:936456: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: # Setup the listener threads
+keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
+mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
+
+# Start the threads and join them so the script doesn't end early
+keyboard_listener.start()
+mouse_listener.start()
+keyboard_listener.join()
+mouse_listener.join()
+2023-01-26 16:50:49:940146: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Key.ctrl_l
+2023-01-26 16:50:50:042628: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: # Setup the listener threads
+keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
+mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
+
+# Start the threads and join them so the script doesn't end early
+keyboard_listener.start()
+mouse_listener.start()
+keyboard_listener.join()
+mouse_listener.join()
+2023-01-26 16:50:50:044387: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - '\x03'
+2023-01-26 16:50:50:390913: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: if not pressed and button == mouse.Button.middle:
+        print("Right Click Detected (released)")
+2023-01-26 16:50:50:390913: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Key.ctrl_l
+2023-01-26 16:50:50:587223: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: if not pressed and button == mouse.Button.middle:
+        print("Right Click Detected (released)")
+2023-01-26 16:50:50:587884: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - '\x03'
+2023-01-26 16:50:54:147470: Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
+        print("Right Click Detected (released)")
+2023-01-26 16:50:54:147470: Windows_runner.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:50:54:264611: Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
+        print("Right Click Detected (released)")
+2023-01-26 16:50:54:266383: Windows_runner.py - Keylogger - Visual Studio Code - '\x16'
+2023-01-26 16:50:56:837156: ● Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
+        print("Right Click Detected (released)")
+2023-01-26 16:50:56:837156: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.tab
+2023-01-26 16:50:58:283766: ● Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
+        print("Right Click Detected (released)")
+2023-01-26 16:50:58:283766: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.ctrl_l
+2023-01-26 16:50:58:543709: ● Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
+        print("Right Click Detected (released)")
+2023-01-26 16:50:58:543709: ● Windows_runner.py - Keylogger - Visual Studio Code - '\x13'
