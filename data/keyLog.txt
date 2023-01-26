@@ -1,200 +1,2282 @@
-2023-01-26 16:20:18:427291: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:20:23:629061: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:20:23:870299: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:20:31:100082: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:20:31:361989: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:20:35:292656: keylogger.py - Keylogger - Visual Studio Code - 'c'
-2023-01-26 16:20:35:855346: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
-2023-01-26 16:20:43:174936: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:20:43:368462: ● keylogger.py - Keylogger - Visual Studio Code - '\x16'
-2023-01-26 16:20:44:220483: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:20:44:364307: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
-2023-01-26 16:21:24:384472: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:21:25:195613: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:21:27:002337: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:21:27:423033: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:21:54:650881: ● Windows_runner.py - Keylogger - Visual Studio Code - "'"
-2023-01-26 16:21:55:091534: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
-2023-01-26 16:21:55:350713: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
-2023-01-26 16:21:55:817428: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
-2023-01-26 16:21:56:425418: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.right
-2023-01-26 16:21:56:746199: ● Windows_runner.py - Keylogger - Visual Studio Code - "'"
-2023-01-26 16:21:57:260818: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:21:57:768553: ● Windows_runner.py - Keylogger - Visual Studio Code - '\x13'
-2023-01-26 16:22:06:188944: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:06:822363: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:07:058455: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:22:15:758861: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:16:786129: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:18:130539: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:18:338724: keylogger.py - Keylogger - Visual Studio Code - '\x16'
-2023-01-26 16:22:19:078901: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:19:315016: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
-2023-01-26 16:22:20:186962: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:48:128345: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:48:808830: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:22:54:172571: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:56:836885: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:57:392978: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:57:835635: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:22:58:165988: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:23:05:882053: ● keylogger.py - Keylogger - Visual Studio Code - Key.enter
-==> 2023-01-26 16:23:05:882053: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l '\x03' Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.ctrl_l Key.enter
-2023-01-26 16:23:06:150834: ● keylogger.py - Keylogger - Visual Studio Code - Key.enter
-==> 2023-01-26 16:23:06:150834: ● keylogger.py - Keylogger - Visual Studio Code - Key.enter
-2023-01-26 16:23:06:258716: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:23:06:519573: ● keylogger.py - Keylogger - Visual Studio Code - '\x16'
-2023-01-26 16:23:07:052302: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:23:07:296062: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
-2023-01-26 16:23:07:809584: ● keylogger.py - Keylogger - Visual Studio Code - '\x1a'
-2023-01-26 16:23:08:254951: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
-2023-01-26 16:25:36:319742: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:25:37:233736: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:25:37:761294: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:25:41:678407: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:25:42:012490: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:25:52:795754: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:25:53:061455: keylogger.py - Keylogger - Visual Studio Code - '\x16'
-2023-01-26 16:25:54:395125: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:25:54:529946: ● keylogger.py - Keylogger - Visual Studio Code - '\x13'
-2023-01-26 16:26:04:318247: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:26:04:783042: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:26:39:176352: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:26:41:744824: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:26:42:490691: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:27:48:506763: keylogger.py - Keylogger - Visual Studio Code - Key.space
-2023-01-26 16:27:49:602974: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
-2023-01-26 16:27:52:955045: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:27:54:411218: ● keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:27:54:844684: ● keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:28:25:782131: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:28:27:782075: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:28:28:204605: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:28:36:178206: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:28:36:422150: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:28:53:725603: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:28:54:021527: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:29:00:077732: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'c'
-2023-01-26 16:29:00:088217: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'o'
-2023-01-26 16:29:00:285929: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'm'
-2023-01-26 16:29:00:486677: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'p'
-2023-01-26 16:29:00:619268: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'a'
-2023-01-26 16:29:00:973439: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'r'
-2023-01-26 16:29:01:429748: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'e'
-2023-01-26 16:29:01:608991: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.space
-2023-01-26 16:29:01:805389: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - '2'
-2023-01-26 16:29:01:961684: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.space
-2023-01-26 16:29:02:168536: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 's'
-2023-01-26 16:29:02:431500: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 't'
-2023-01-26 16:29:02:610580: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'r'
-2023-01-26 16:29:02:738435: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'i'
-2023-01-26 16:29:02:955814: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'n'
-2023-01-26 16:29:03:086688: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'g'
-2023-01-26 16:29:03:173779: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.space
-2023-01-26 16:29:03:502236: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'p'
-2023-01-26 16:29:03:738458: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'y'
-2023-01-26 16:29:03:869050: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 't'
-2023-01-26 16:29:03:963299: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'h'
-2023-01-26 16:29:04:138290: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'o'
-2023-01-26 16:29:04:836657: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - 'n'
-2023-01-26 16:29:05:101113: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.enter
-==> 2023-01-26 16:29:05:101113: Python: Check if String Contains Substring and 6 more pages - Personal - Microsoft​ Edge - Key.ctrl_l '\x03' 'c' 'o' 'm' 'p' 'a' 'r' 'e' Key.space '2' Key.space 's' 't' 'r' 'i' 'n' 'g' Key.space 'p' 'y' 't' 'h' 'o' 'n' Key.enter
-2023-01-26 16:29:58:868017: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:29:59:575666: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:30:00:721555: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:30:00:894312: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:30:05:260590: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:30:05:456815: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:30:21:694414: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
-  init.run()
+2023-01-26 21:12:33:390307: Code  - Key.enter
+==> 2023-01-26 21:12:33:390307: Code  - 
+2023-01-26 21:12:36:766172: Code  - 'h'
+2023-01-26 21:12:36:908178: Code  - 'e'
+2023-01-26 21:12:37:033944: Code  - 'l'
+2023-01-26 21:12:37:197119: Code  - 'l'
+2023-01-26 21:12:37:363795: Code  - 'o'
+2023-01-26 21:12:38:763710: Code  - Key.enter
+==> 2023-01-26 21:12:38:763710: Code  - 
+2023-01-26 21:12:51:136677: Code  - Key.cmd
+2023-01-26 21:12:52:411521: Code  - 'c'
+2023-01-26 21:13:01:956866: Code  - Key.cmd
+2023-01-26 21:13:02:251182: Code  - 'c'
+2023-01-26 21:13:05:970462: Code  - Key.cmd
+2023-01-26 21:13:06:197585: Code  - 'c'
+2023-01-26 21:13:09:931832: Code  - Key.cmd
+2023-01-26 21:13:10:376799: Code  - 'b'
+2023-01-26 21:13:11:801813: Code  - 'b'
+2023-01-26 21:15:57:270651: Code  - Key.enter
+==> 2023-01-26 21:15:57:270651: Code  - K e y . e n t e r
+2023-01-26 21:15:57:275124: Code  - 'h'
+2023-01-26 21:15:57:375020: Code  - 'e'
+2023-01-26 21:15:57:576683: Code  - 'l'
+2023-01-26 21:15:57:727721: Code  - 'l'
+2023-01-26 21:15:57:885261: Code  - 'o'
+2023-01-26 21:15:59:161741: Code  - Key.enter
+==> 2023-01-26 21:15:59:161741: Code  - ' h ' ' e ' ' l ' ' l ' ' o ' K e y . e n t e r
+2023-01-26 21:16:19:694091: Code  - Key.cmd
+2023-01-26 21:16:20:653406: Code  - 'c'
+2023-01-26 21:16:23:167718: Code  - Key.backspace
+2023-01-26 21:16:23:514031: Code  - Key.backspace
+2023-01-26 21:17:12:577312: Code  - Key.cmd
+2023-01-26 21:17:12:818760: Code  - 'c'
+2023-01-26 21:17:18:855893: Code  - Key.cmd
+2023-01-26 21:17:19:045035: Code  - 'c'
+2023-01-26 21:19:19:842108: Code  - 'h'
+2023-01-26 21:19:19:846437: Code  - 'h'
+2023-01-26 21:19:20:002496: Code  - 'e'
+2023-01-26 21:19:20:004901: Code  - 'e'
+2023-01-26 21:19:20:164150: Code  - 'l'
+2023-01-26 21:19:20:168455: Code  - 'l'
+2023-01-26 21:19:20:328836: Code  - 'l'
+2023-01-26 21:19:20:333088: Code  - 'l'
+2023-01-26 21:19:20:533840: Code  - 'o'
+2023-01-26 21:19:20:536431: Code  - 'o'
+2023-01-26 21:19:26:744318: Code  - Key.enter
+==> 2023-01-26 21:19:26:744318: Code  - ' h ' ' h ' ' e ' ' e ' ' l ' ' l ' ' l ' ' l ' ' o ' ' o ' K e y . e n t e r
+2023-01-26 21:19:27:801875: Code  - Key.enter
+==> 2023-01-26 21:19:27:801875: Code  - K e y . e n t e r
+2023-01-26 21:19:27:804341: Code  - Key.backspace
+2023-01-26 21:19:27:806452: Code  - Key.backspace
+2023-01-26 21:19:27:809904: Code  - Key.backspace
+2023-01-26 21:19:27:812087: Code  - Key.backspace
+2023-01-26 21:19:27:814829: Code  - Key.backspace
+2023-01-26 21:19:27:818407: Code  - Key.backspace
+2023-01-26 21:19:27:821336: Code  - Key.backspace
+2023-01-26 21:19:27:823825: Code  - Key.backspace
+2023-01-26 21:19:27:827101: Code  - Key.backspace
+2023-01-26 21:19:27:829656: Code  - Key.backspace
+2023-01-26 21:19:27:832486: Code  - Key.backspace
+2023-01-26 21:19:27:835800: Code  - Key.backspace
+2023-01-26 21:19:28:569668: Code  - 'h'
+2023-01-26 21:19:28:574451: Code  - 'h'
+2023-01-26 21:19:28:792329: Code  - 'e'
+2023-01-26 21:19:28:797622: Code  - 'e'
+2023-01-26 21:19:28:971233: Code  - 'l'
+2023-01-26 21:19:28:976173: Code  - 'l'
+2023-01-26 21:19:29:127939: Code  - 'l'
+2023-01-26 21:19:29:132959: Code  - 'l'
+2023-01-26 21:19:29:283904: Code  - 'o'
+2023-01-26 21:19:29:288372: Code  - 'o'
+2023-01-26 21:19:33:495763: Code  - Key.cmd
+2023-01-26 21:19:34:278541: Code  - 'x'
+2023-01-26 21:19:36:636361: Code  - Key.cmd
+2023-01-26 21:19:36:926048: Code  - 'v'
+2023-01-26 21:19:39:355123: Code  - Key.cmd
+2023-01-26 21:19:39:628031: Code  - 'c'
+2023-01-26 21:20:51:290479: Code  - 'h'
+2023-01-26 21:20:51:295860: Code  - 'h'
+2023-01-26 21:20:51:479688: Code  - 'e'
+2023-01-26 21:20:51:482720: Code  - 'e'
+2023-01-26 21:20:51:671693: Code  - 'l'
+2023-01-26 21:20:51:674005: Code  - 'l'
+2023-01-26 21:20:51:828056: Code  - 'l'
+2023-01-26 21:20:51:830819: Code  - 'l'
+2023-01-26 21:20:52:017183: Code  - 'p'
+2023-01-26 21:20:52:020308: Code  - 'p'
+2023-01-26 21:20:53:253640: Code  - 'o'
+2023-01-26 21:20:53:256636: Code  - 'o'
+2023-01-26 21:20:53:476072: Code  - Key.space
+2023-01-26 21:20:53:478635: Code  - Key.space
+2023-01-26 21:20:56:179458: Code  - Key.cmd
+2023-01-26 21:20:56:464641: Code  - Clipboard: hellpo 
+2023-01-26 21:20:56:478396: Code  - 'c'
+2023-01-26 21:20:56:881893: Code  - 'c'
+2023-01-26 21:20:56:917420: Code  - 'c'
+2023-01-26 21:20:56:950960: Code  - 'c'
+2023-01-26 21:20:56:984272: Code  - 'c'
+2023-01-26 21:21:08:271191: Code  - Key.backspace
+2023-01-26 21:21:08:275131: Code  - Key.backspace
+2023-01-26 21:21:36:116296: Code  - Key.cmd
+2023-01-26 21:21:36:375834: Code  - 'c'
+2023-01-26 21:21:41:097871: Code  - Key.cmd
+2023-01-26 21:21:41:274779: Code  - 'c'
+2023-01-26 21:23:08:834183: Code  - Key.cmd
+2023-01-26 21:23:09:152593: Code  - Clipboard: init.run()
+2023-01-26 21:23:09:163684: Code  - 'c'
+2023-01-26 21:23:15:502265: Code  - 'h'
+2023-01-26 21:23:15:514172: Code  - 'h'
+2023-01-26 21:23:15:629955: Code  - 'e'
+2023-01-26 21:23:15:633749: Code  - 'e'
+2023-01-26 21:23:15:771325: Code  - 'l'
+2023-01-26 21:23:15:773830: Code  - 'l'
+2023-01-26 21:23:15:927887: Code  - 'l'
+2023-01-26 21:23:15:934015: Code  - 'l'
+2023-01-26 21:23:16:102507: Code  - 'o'
+2023-01-26 21:23:16:106420: Code  - 'o'
+2023-01-26 21:23:18:968224: Code  - Key.cmd
+2023-01-26 21:23:19:253067: Code  - 'x'
+2023-01-26 21:23:47:823173: Code  - 'h'
+2023-01-26 21:23:47:829107: Code  - 'h'
+2023-01-26 21:23:47:946626: Code  - 'e'
+2023-01-26 21:23:47:949807: Code  - 'e'
+2023-01-26 21:23:48:094571: Code  - 'l'
+2023-01-26 21:23:48:098713: Code  - 'l'
+2023-01-26 21:23:48:249148: Code  - 'l'
+2023-01-26 21:23:48:251749: Code  - 'l'
+2023-01-26 21:23:48:419470: Code  - 'o'
+2023-01-26 21:23:48:423853: Code  - 'o'
+2023-01-26 21:23:51:241646: Code  - Key.cmd
+2023-01-26 21:23:51:511111: Code  - Clipboard: hello
+2023-01-26 21:23:51:521474: Code  - 'x'
+2023-01-26 21:51:21:059519: Code  - Key.shift
+2023-01-26 21:51:21:191112: Code  - Key.tab
+2023-01-26 21:51:21:194805: Code  - Key.tab
+2023-01-26 21:51:42:433023: Code  - Key.cmd
+2023-01-26 21:51:42:588438: Code  - Clipboard: url = 'https://www.w3schools.com/python/demopage.php'
+myobj = {'somekey': 'somevalue'}
 
-2023-01-26 16:30:21:700542: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:30:22:171602: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
-  init.run()
+x = requests.post(url, json = myobj)
 
-2023-01-26 16:30:22:171602: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:30:22:611756: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
-  init.run()
+print(x.text)
+2023-01-26 21:51:42:599053: Code  - 'c'
+2023-01-26 21:51:43:223674: Code  - Key.cmd
+2023-01-26 21:51:43:385168: Code  - Clipboard: url = 'https://www.w3schools.com/python/demopage.php'
+myobj = {'somekey': 'somevalue'}
 
-2023-01-26 16:30:22:612272: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:30:22:797907: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
-  init.run()
+x = requests.post(url, json = myobj)
 
-2023-01-26 16:30:22:797907: keylogger.py - Keylogger - Visual Studio Code - '\x03'
-2023-01-26 16:44:01:353522: keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
-  init.run()
-2023-01-26 16:44:01:355485: keylogger.py - Keylogger - Visual Studio Code - Key.space
-2023-01-26 16:44:01:967154: ● keylogger.py - Keylogger - Visual Studio Code - Clipboard:   print(init.get_os_info())
-  init.run()
-2023-01-26 16:44:01:967154: ● keylogger.py - Keylogger - Visual Studio Code - Key.backspace
-2023-01-26 16:45:05:393594: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
-2023-01-26 16:45:05:395390: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:45:05:965185: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
-2023-01-26 16:45:05:965185: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:45:06:262428: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
-2023-01-26 16:45:06:264262: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:45:07:826327: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
-2023-01-26 16:45:07:829006: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:45:08:309764: keylogger.py - Keylogger - Visual Studio Code - Clipboard: mouse_listener
-2023-01-26 16:45:08:309764: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:47:00:316080: keylogger.py - Keylogger - Visual Studio Code - Clipboard: # Setup the listener threads
-keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
-mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
-
-# Start the threads and join them so the script doesn't end early
-keyboard_listener.start()
-mouse_listener.start()
-keyboard_listener.join()
-mouse_listener.join()
-2023-01-26 16:47:00:316080: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:47:00:864674: keylogger.py - Keylogger - Visual Studio Code - Clipboard: # Setup the listener threads
-keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
-mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
-
-# Start the threads and join them so the script doesn't end early
-keyboard_listener.start()
-mouse_listener.start()
-keyboard_listener.join()
-mouse_listener.join()
-2023-01-26 16:47:00:864674: keylogger.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:50:49:936456: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: # Setup the listener threads
-keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
-mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
-
-# Start the threads and join them so the script doesn't end early
-keyboard_listener.start()
-mouse_listener.start()
-keyboard_listener.join()
-mouse_listener.join()
-2023-01-26 16:50:49:940146: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Key.ctrl_l
-2023-01-26 16:50:50:042628: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: # Setup the listener threads
-keyboard_listener = KeyboardListener(on_press=on_press, on_release=on_release)
-mouse_listener = MouseListener(on_move=on_move, on_click=on_click, on_scroll=on_scroll)
-
-# Start the threads and join them so the script doesn't end early
-keyboard_listener.start()
-mouse_listener.start()
-keyboard_listener.join()
-mouse_listener.join()
-2023-01-26 16:50:50:044387: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - '\x03'
-2023-01-26 16:50:50:390913: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: if not pressed and button == mouse.Button.middle:
-        print("Right Click Detected (released)")
-2023-01-26 16:50:50:390913: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Key.ctrl_l
-2023-01-26 16:50:50:587223: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - Clipboard: if not pressed and button == mouse.Button.middle:
-        print("Right Click Detected (released)")
-2023-01-26 16:50:50:587884: python - On right click with pynput - Stack Overflow and 5 more pages - Personal - Microsoft​ Edge - '\x03'
-2023-01-26 16:50:54:147470: Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
-        print("Right Click Detected (released)")
-2023-01-26 16:50:54:147470: Windows_runner.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:50:54:264611: Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
-        print("Right Click Detected (released)")
-2023-01-26 16:50:54:266383: Windows_runner.py - Keylogger - Visual Studio Code - '\x16'
-2023-01-26 16:50:56:837156: ● Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
-        print("Right Click Detected (released)")
-2023-01-26 16:50:56:837156: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.tab
-2023-01-26 16:50:58:283766: ● Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
-        print("Right Click Detected (released)")
-2023-01-26 16:50:58:283766: ● Windows_runner.py - Keylogger - Visual Studio Code - Key.ctrl_l
-2023-01-26 16:50:58:543709: ● Windows_runner.py - Keylogger - Visual Studio Code - Clipboard: if not pressed and button == mouse.Button.middle:
-        print("Right Click Detected (released)")
-2023-01-26 16:50:58:543709: ● Windows_runner.py - Keylogger - Visual Studio Code - '\x13'
+print(x.text)
+2023-01-26 21:51:43:387597: Code  - 'c'
+2023-01-26 21:53:50:774767: Code  - Key.cmd
+2023-01-26 21:53:56:639512: Microsoft Edge Dev  - '\\'
+2023-01-26 21:53:56:641556: Microsoft Edge Dev  - '\\'
+2023-01-26 21:53:56:643580: Microsoft Edge Dev  - Key.shift_r
+2023-01-26 21:53:57:203852: Microsoft Edge Dev  - Key.backspace
+2023-01-26 21:53:57:207547: Microsoft Edge Dev  - Key.backspace
+2023-01-26 21:53:58:276301: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 21:53:58:276301: Microsoft Edge Dev  - K e y . c m d ' \ \ ' K e y . s h i f t _ r K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . e n t e r
+2023-01-26 21:53:59:040512: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 21:53:59:040512: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 21:54:06:070304: Code  - Key.left
+2023-01-26 21:54:06:072984: Code  - 'h'
+2023-01-26 21:54:06:078850: Code  - 'h'
+2023-01-26 21:54:06:081335: Code  - 'o'
+2023-01-26 21:54:06:084493: Code  - 'o'
+2023-01-26 21:54:06:086987: Code  - 's'
+2023-01-26 21:54:06:089122: Code  - Key.backspace
+2023-01-26 21:54:06:091966: Code  - 'ó'
+2023-01-26 21:54:06:570836: Code  - 's'
+2023-01-26 21:54:06:574403: Code  - Key.backspace
+2023-01-26 21:54:06:577665: Code  - 'os'
+2023-01-26 21:54:06:861481: Code  - 't'
+2023-01-26 21:54:06:866583: Code  - 't'
+2023-01-26 21:54:07:040941: Code  - '='
+2023-01-26 21:54:07:045126: Code  - '='
+2023-01-26 21:54:07:454121: Code  - "'"
+2023-01-26 21:54:07:457268: Code  - "'"
+2023-01-26 21:54:08:098949: Code  - '0'
+2023-01-26 21:54:08:101488: Code  - '0'
+2023-01-26 21:54:08:304909: Code  - '.'
+2023-01-26 21:54:08:309033: Code  - '.'
+2023-01-26 21:54:08:512304: Code  - '0'
+2023-01-26 21:54:08:552540: Code  - '0'
+2023-01-26 21:54:08:747379: Code  - '.'
+2023-01-26 21:54:08:749952: Code  - '.'
+2023-01-26 21:54:08:977650: Code  - '0'
+2023-01-26 21:54:08:982862: Code  - '0'
+2023-01-26 21:54:09:192613: Code  - '.'
+2023-01-26 21:54:09:194778: Code  - '.'
+2023-01-26 21:54:09:384394: Code  - '0'
+2023-01-26 21:54:09:386677: Code  - '0'
+2023-01-26 21:54:09:733381: Code  - "'"
+2023-01-26 21:54:09:737192: Code  - "'"
+2023-01-26 21:54:11:104668: Code  - ','
+2023-01-26 21:54:11:109045: Code  - ','
+2023-01-26 21:54:11:345151: Code  - Key.space
+2023-01-26 21:54:11:347828: Code  - Key.space
+2023-01-26 21:54:11:912187: Code  - Key.cmd
+2023-01-26 21:54:12:180710: Code  - 's'
+2023-01-26 21:54:27:275695: Code  - Key.backspace
+2023-01-26 21:54:27:278848: Code  - Key.backspace
+2023-01-26 21:54:27:539610: Code  - Key.backspace
+2023-01-26 21:54:27:542415: Code  - Key.backspace
+2023-01-26 21:54:29:153436: Code  - Key.cmd
+2023-01-26 21:54:29:365246: Code  - 's'
+2023-01-26 21:54:31:636511: Code  - Key.f5
+2023-01-26 21:54:35:561671: Code  - Key.cmd
+2023-01-26 21:54:38:599380: Microsoft Edge Dev  - Key.cmd
+2023-01-26 21:54:38:685741: Microsoft Edge Dev  - Clipboard: http://127.0.0.1:5000/
+2023-01-26 21:54:38:699241: Microsoft Edge Dev  - 'c'
+2023-01-26 21:54:46:999495: Code  - Key.cmd
+2023-01-26 21:54:47:001816: Code  - 'v'
+2023-01-26 21:54:47:136657: Code  - Key.backspace
+2023-01-26 21:54:47:140244: Code  - Key.backspace
+2023-01-26 21:54:47:469379: Code  - Key.cmd
+2023-01-26 21:54:47:752642: Code  - 's'
+2023-01-26 22:00:02:875224: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:00:02:878508: Microsoft Edge Dev  - 'G'
+2023-01-26 22:00:02:880489: Microsoft Edge Dev  - 'G'
+2023-01-26 22:00:02:882478: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:02:884382: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:02:886100: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:02:887740: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:02:889693: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:02:891289: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:02:892884: Microsoft Edge Dev  - 'ê'
+2023-01-26 22:00:02:894698: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:02:896615: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:03:264707: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:298166: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:331466: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:366027: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:398894: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:431539: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:464726: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:498432: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:532931: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:566836: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:599510: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:633573: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:666559: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:699757: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:735565: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:769975: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:03:804323: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:18:561391: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:00:18:738776: Microsoft Edge Dev  - 'C'
+2023-01-26 22:00:18:743266: Microsoft Edge Dev  - 'C'
+2023-01-26 22:00:18:856317: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:18:858603: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:19:119255: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:19:121258: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:19:344303: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:19:348461: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:19:629748: Microsoft Edge Dev  - 'w'
+2023-01-26 22:00:19:632167: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:19:634723: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:19:636933: Microsoft Edge Dev  - 'ơi'
+2023-01-26 22:00:19:975492: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:19:979025: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:20:336020: Microsoft Edge Dev  - 'n'
+2023-01-26 22:00:20:339526: Microsoft Edge Dev  - 'n'
+2023-01-26 22:00:20:616602: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:20:620202: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:20:800556: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:20:804683: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:21:068917: Microsoft Edge Dev  - 'f'
+2023-01-26 22:00:21:073815: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:21:077444: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:21:080162: Microsoft Edge Dev  - 'ào'
+2023-01-26 22:00:21:276617: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:21:278637: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:21:480591: Microsoft Edge Dev  - 'm'
+2023-01-26 22:00:21:483228: Microsoft Edge Dev  - 'm'
+2023-01-26 22:00:21:611335: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:21:614748: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:21:925423: Microsoft Edge Dev  - 'f'
+2023-01-26 22:00:21:928487: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:21:931021: Microsoft Edge Dev  - 'à'
+2023-01-26 22:00:22:019716: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:22:022824: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:22:230125: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:22:234042: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:22:337262: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:22:341304: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:22:895477: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:22:899150: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:23:066874: Microsoft Edge Dev  - 'n'
+2023-01-26 22:00:23:069998: Microsoft Edge Dev  - 'n'
+2023-01-26 22:00:23:138501: Microsoft Edge Dev  - 'w'
+2023-01-26 22:00:23:143467: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:23:146459: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:23:149473: Microsoft Edge Dev  - 'ăn'
+2023-01-26 22:00:23:287716: Microsoft Edge Dev  - 'g'
+2023-01-26 22:00:23:289816: Microsoft Edge Dev  - 'g'
+2023-01-26 22:00:23:394946: Microsoft Edge Dev  - 's'
+2023-01-26 22:00:23:396980: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:23:399096: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:23:401072: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:23:403072: Microsoft Edge Dev  - 'ắng'
+2023-01-26 22:00:25:924708: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:25:927609: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:26:607252: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:26:609406: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:27:000557: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:27:002788: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:32:180313: Microsoft Edge Dev  - 'k'
+2023-01-26 22:00:32:184222: Microsoft Edge Dev  - 'k'
+2023-01-26 22:00:32:866464: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:32:869886: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:33:151053: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:33:155151: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:33:297159: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:33:300892: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:33:480027: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:33:484142: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:33:488332: Microsoft Edge Dev  - 'ê'
+2023-01-26 22:00:33:693030: Microsoft Edge Dev  - 's'
+2023-01-26 22:00:33:697393: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:33:700579: Microsoft Edge Dev  - 'ế'
+2023-01-26 22:00:33:954453: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:33:958450: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:34:107454: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:34:109502: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:34:276893: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:34:282060: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:34:456490: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:34:458554: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:34:460613: Microsoft Edge Dev  - 'â'
+2023-01-26 22:00:34:532225: Microsoft Edge Dev  - 'm'
+2023-01-26 22:00:34:534384: Microsoft Edge Dev  - 'm'
+2023-01-26 22:00:34:716380: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:34:720690: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:34:800023: Microsoft Edge Dev  - 'v'
+2023-01-26 22:00:34:803246: Microsoft Edge Dev  - 'v'
+2023-01-26 22:00:34:985135: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:34:989098: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:35:137782: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:35:142302: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:35:145403: Microsoft Edge Dev  - 'ô'
+2023-01-26 22:00:35:343639: Microsoft Edge Dev  - 'n'
+2023-01-26 22:00:35:347341: Microsoft Edge Dev  - 'n'
+2023-01-26 22:00:35:511402: Microsoft Edge Dev  - 's'
+2023-01-26 22:00:35:514950: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:35:519241: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:35:521989: Microsoft Edge Dev  - 'ốn'
+2023-01-26 22:00:35:666856: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:35:671004: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:35:969877: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:35:973797: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:36:483445: Microsoft Edge Dev  - 'r'
+2023-01-26 22:00:36:486286: Microsoft Edge Dev  - 'r'
+2023-01-26 22:00:36:627199: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:36:631581: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:36:809286: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:36:813342: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:36:816318: Microsoft Edge Dev  - 'ô'
+2023-01-26 22:00:36:975808: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:36:980120: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:37:663217: Microsoft Edge Dev  - 'f'
+2023-01-26 22:00:37:668250: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:37:671642: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:37:674578: Microsoft Edge Dev  - 'ồi'
+2023-01-26 22:00:37:875004: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:37:878432: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:39:120294: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:39:122668: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:39:446859: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:39:450802: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:067901: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:071870: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:276978: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:279417: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:486609: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:490846: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:662825: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:666409: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:840665: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:40:844734: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:41:053091: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:41:057256: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:41:421928: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:41:425792: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:41:631546: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:41:634570: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:41:817827: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:41:821029: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:41:823189: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:00:41:883523: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:41:885732: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:42:715396: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:42:718915: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:43:528555: Microsoft Edge Dev  - 'r'
+2023-01-26 22:00:43:532480: Microsoft Edge Dev  - 'r'
+2023-01-26 22:00:43:655096: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:43:658811: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:43:832697: Microsoft Edge Dev  - 'o'
+2023-01-26 22:00:43:836931: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:43:840169: Microsoft Edge Dev  - 'ô'
+2023-01-26 22:00:43:989027: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:43:993723: Microsoft Edge Dev  - 'i'
+2023-01-26 22:00:44:105290: Microsoft Edge Dev  - 'f'
+2023-01-26 22:00:44:108923: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:44:112625: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:44:116561: Microsoft Edge Dev  - 'ồi'
+2023-01-26 22:00:44:210791: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:44:213123: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:44:363000: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:44:367547: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:44:495632: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:44:498989: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:44:799230: Microsoft Edge Dev  - 'c'
+2023-01-26 22:00:44:802850: Microsoft Edge Dev  - 'c'
+2023-01-26 22:00:45:071806: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:45:075924: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:45:210611: Microsoft Edge Dev  - 'x'
+2023-01-26 22:00:45:213036: Microsoft Edge Dev  - 'x'
+2023-01-26 22:00:45:410430: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:45:414705: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:45:521166: Microsoft Edge Dev  - 'm'
+2023-01-26 22:00:45:524896: Microsoft Edge Dev  - 'm'
+2023-01-26 22:00:45:688298: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:45:692665: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:45:769005: Microsoft Edge Dev  - 'x'
+2023-01-26 22:00:45:772666: Microsoft Edge Dev  - 'x'
+2023-01-26 22:00:45:986329: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:45:990242: Microsoft Edge Dev  - 'e'
+2023-01-26 22:00:46:194384: Microsoft Edge Dev  - 's'
+2023-01-26 22:00:46:199144: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:46:202645: Microsoft Edge Dev  - 'é'
+2023-01-26 22:00:46:446372: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:46:450777: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:46:577261: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:46:581249: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:46:715260: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:46:758236: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:46:853037: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:46:855149: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:46:857077: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:00:47:077742: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:47:081556: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:47:248926: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:47:251186: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:47:253499: Microsoft Edge Dev  - 'â'
+2023-01-26 22:00:47:357542: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:47:359666: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:47:502925: Microsoft Edge Dev  - 'f'
+2023-01-26 22:00:47:508513: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:47:511655: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:47:514500: Microsoft Edge Dev  - 'ầu'
+2023-01-26 22:00:47:659361: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:47:662794: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:47:749833: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:47:754477: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:47:947069: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:47:950538: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:47:994663: Microsoft Edge Dev  - 'w'
+2023-01-26 22:00:47:996823: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:47:998879: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:00:48:226794: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:48:229054: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:50:865554: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:00:50:865554: Microsoft Edge Dev  - K e y . s h i f t ' G ' ' G ' ' h ' ' h ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' K e y . s p a c e K e y . s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' C ' ' C ' ' h ' ' h ' ' o ' ' o ' ' i ' ' i ' ' w ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ơ i ' K e y . s p a c e K e y . s p a c e ' n ' ' n ' ' a ' ' a ' ' o ' ' o ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' à o ' K e y . s p a c e K e y . s p a c e ' m ' ' m ' ' a ' ' a ' ' f ' K e y . b a c k s p a c e ' à ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' h ' ' h ' ' a ' ' a ' ' n ' ' n ' ' w ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ă n ' ' g ' ' g ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' ắ n g ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' k ' ' k ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' h ' ' h ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' ' s ' K e y . b a c k s p a c e ' ế ' ' t ' ' t ' K e y . s p a c e K e y . s p a c e ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' m ' ' m ' K e y . s p a c e K e y . s p a c e ' v ' ' v ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' n ' ' n ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ố n ' K e y . s p a c e K e y . s p a c e K e y . s p a c e K e y . s p a c e ' r ' ' r ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' i ' ' i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ồ i ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' i ' ' i ' K e y . s p a c e K e y . s p a c e ' r ' ' r ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' i ' ' i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ồ i ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' K e y . s p a c e K e y . s p a c e ' c ' ' c ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' x ' ' x ' ' e ' ' e ' ' m ' ' m ' K e y . s p a c e K e y . s p a c e ' x ' ' x ' ' e ' ' e ' ' s ' K e y . b a c k s p a c e ' é ' ' t ' ' t ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ầ u ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' K e y . s p a c e K e y . s p a c e K e y . e n t e r
+2023-01-26 22:00:52:304464: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:00:52:304464: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:00:52:306604: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:00:52:308567: Microsoft Edge Dev  - 'C'
+2023-01-26 22:00:52:310289: Microsoft Edge Dev  - 'C'
+2023-01-26 22:00:52:312120: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:52:313897: Microsoft Edge Dev  - 'h'
+2023-01-26 22:00:52:315522: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:52:317193: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:52:318848: Microsoft Edge Dev  - 'w'
+2023-01-26 22:00:52:320378: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:52:321942: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:00:52:323641: Microsoft Edge Dev  - 's'
+2023-01-26 22:00:52:325255: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:52:326897: Microsoft Edge Dev  - 'ứ'
+2023-01-26 22:00:52:366350: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:52:370163: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:00:52:673636: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:52:676446: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:52:857864: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:52:863619: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:52:866938: Microsoft Edge Dev  - 'â'
+2023-01-26 22:00:52:986521: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:52:988900: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:53:115376: Microsoft Edge Dev  - 'f'
+2023-01-26 22:00:53:120710: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:53:124455: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:53:126658: Microsoft Edge Dev  - 'ầu'
+2023-01-26 22:00:53:249450: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:53:251569: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:53:552632: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:53:555312: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:53:598664: Microsoft Edge Dev  - 'w'
+2023-01-26 22:00:53:601258: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:53:603832: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:00:54:009843: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:54:013243: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:54:134640: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:54:137509: Microsoft Edge Dev  - 't'
+2023-01-26 22:00:54:302943: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:54:306375: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:54:397770: Microsoft Edge Dev  - 'w'
+2023-01-26 22:00:54:400987: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:54:403363: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:00:55:046837: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:55:050834: Microsoft Edge Dev  - Key.space
+2023-01-26 22:00:55:157424: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:55:160447: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:55:335834: Microsoft Edge Dev  - 'd'
+2023-01-26 22:00:55:340558: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:55:343479: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:00:55:503882: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:55:505903: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:55:670982: Microsoft Edge Dev  - 'a'
+2023-01-26 22:00:55:673039: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:00:55:675082: Microsoft Edge Dev  - 'â'
+2023-01-26 22:00:55:691093: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:55:693230: Microsoft Edge Dev  - 'u'
+2023-01-26 22:00:57:521644: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:00:57:521644: Microsoft Edge Dev  - K e y . s h i f t ' C ' ' C ' ' h ' ' h ' ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' ' s ' K e y . b a c k s p a c e ' ứ ' K e y . b a c k s p a c e ' đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ầ u ' K e y . s p a c e K e y . s p a c e ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' t ' ' t ' ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' K e y . e n t e r
+2023-01-26 22:00:59:124727: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:00:59:124727: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:01:10:113777: Microsoft Edge Dev  - 'r'
+2023-01-26 22:01:10:116549: Microsoft Edge Dev  - 'r'
+2023-01-26 22:01:10:319963: Microsoft Edge Dev  - 'e'
+2023-01-26 22:01:10:322653: Microsoft Edge Dev  - 'e'
+2023-01-26 22:01:10:587755: Microsoft Edge Dev  - 'q'
+2023-01-26 22:01:10:591288: Microsoft Edge Dev  - 'q'
+2023-01-26 22:01:10:704240: Microsoft Edge Dev  - 'u'
+2023-01-26 22:01:10:707361: Microsoft Edge Dev  - 'u'
+2023-01-26 22:01:10:881868: Microsoft Edge Dev  - 'e'
+2023-01-26 22:01:10:890530: Microsoft Edge Dev  - 'e'
+2023-01-26 22:01:11:414547: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:11:420341: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:11:423541: Microsoft Edge Dev  - 'é'
+2023-01-26 22:01:11:820503: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:11:823665: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:11:826485: Microsoft Edge Dev  - 'es'
+2023-01-26 22:01:12:208867: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:12:215105: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:12:362238: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:12:367375: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:12:478068: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:12:481091: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:13:113410: Microsoft Edge Dev  - 't'
+2023-01-26 22:01:13:115915: Microsoft Edge Dev  - 't'
+2023-01-26 22:01:14:468471: Microsoft Edge Dev  - Key.space
+2023-01-26 22:01:14:470945: Microsoft Edge Dev  - Key.space
+2023-01-26 22:01:14:810705: Microsoft Edge Dev  - 'h'
+2023-01-26 22:01:14:813124: Microsoft Edge Dev  - 'h'
+2023-01-26 22:01:15:094846: Microsoft Edge Dev  - 't'
+2023-01-26 22:01:15:097766: Microsoft Edge Dev  - 't'
+2023-01-26 22:01:15:296119: Microsoft Edge Dev  - 't'
+2023-01-26 22:01:15:302738: Microsoft Edge Dev  - 't'
+2023-01-26 22:01:15:443621: Microsoft Edge Dev  - 'p'
+2023-01-26 22:01:15:446147: Microsoft Edge Dev  - 'p'
+2023-01-26 22:01:15:701721: Microsoft Edge Dev  - Key.space
+2023-01-26 22:01:15:704066: Microsoft Edge Dev  - Key.space
+2023-01-26 22:01:15:898130: Microsoft Edge Dev  - 'd'
+2023-01-26 22:01:15:901767: Microsoft Edge Dev  - 'd'
+2023-01-26 22:01:16:105459: Microsoft Edge Dev  - 'f'
+2023-01-26 22:01:16:108707: Microsoft Edge Dev  - 'f'
+2023-01-26 22:01:16:323535: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:16:327168: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:16:464420: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:16:468883: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:16:556656: Microsoft Edge Dev  - 'f'
+2023-01-26 22:01:16:560812: Microsoft Edge Dev  - 'f'
+2023-01-26 22:01:16:681393: Microsoft Edge Dev  - 'l'
+2023-01-26 22:01:16:685121: Microsoft Edge Dev  - 'l'
+2023-01-26 22:01:16:834338: Microsoft Edge Dev  - 'a'
+2023-01-26 22:01:16:837337: Microsoft Edge Dev  - 'a'
+2023-01-26 22:01:17:041288: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:17:044644: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:17:047089: Microsoft Edge Dev  - 'á'
+2023-01-26 22:01:17:339980: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:17:343516: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:01:17:346017: Microsoft Edge Dev  - 'as'
+2023-01-26 22:01:17:465577: Microsoft Edge Dev  - 'k'
+2023-01-26 22:01:17:469042: Microsoft Edge Dev  - 'k'
+2023-01-26 22:01:18:742345: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:01:18:742345: Microsoft Edge Dev  - ' r ' ' r ' ' e ' ' e ' ' q ' ' q ' ' u ' ' u ' ' e ' ' e ' ' s ' K e y . b a c k s p a c e ' é ' ' s ' K e y . b a c k s p a c e ' e s ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' s ' ' s ' ' t ' ' t ' K e y . s p a c e K e y . s p a c e ' h ' ' h ' ' t ' ' t ' ' t ' ' t ' ' p ' ' p ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' f ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' f ' ' f ' ' l ' ' l ' ' a ' ' a ' ' s ' K e y . b a c k s p a c e ' á ' ' s ' K e y . b a c k s p a c e ' a s ' ' k ' ' k ' K e y . e n t e r
+2023-01-26 22:01:19:780728: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:01:19:780728: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:01:40:268332: Microsoft Edge Dev  - Key.left
+2023-01-26 22:01:40:654065: Microsoft Edge Dev  - 'j'
+2023-01-26 22:01:40:657949: Microsoft Edge Dev  - 'j'
+2023-01-26 22:01:40:801601: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:40:807487: Microsoft Edge Dev  - 's'
+2023-01-26 22:01:40:890290: Microsoft Edge Dev  - 'o'
+2023-01-26 22:01:40:892558: Microsoft Edge Dev  - 'o'
+2023-01-26 22:01:41:083428: Microsoft Edge Dev  - 'n'
+2023-01-26 22:01:41:088063: Microsoft Edge Dev  - 'n'
+2023-01-26 22:01:41:254009: Microsoft Edge Dev  - Key.space
+2023-01-26 22:01:41:256273: Microsoft Edge Dev  - Key.space
+2023-01-26 22:01:42:460495: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:01:42:460495: Microsoft Edge Dev  - K e y . l e f t ' j ' ' j ' ' s ' ' s ' ' o ' ' o ' ' n ' ' n ' K e y . s p a c e K e y . s p a c e K e y . e n t e r
+2023-01-26 22:01:43:538452: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:01:43:538452: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:02:55:983834: Microsoft Edge Dev  - Key.cmd
+2023-01-26 22:02:56:141242: Microsoft Edge Dev  - Clipboard: http://127.0.0.1:5000/
+2023-01-26 22:02:56:154110: Microsoft Edge Dev  - 'c'
+2023-01-26 22:03:05:657109: Code  - Key.cmd
+2023-01-26 22:03:05:659549: Code  - 'v'
+2023-01-26 22:03:16:044619: Code  - Key.backspace
+2023-01-26 22:03:16:050094: Code  - Key.backspace
+2023-01-26 22:03:16:219322: Code  - Key.backspace
+2023-01-26 22:03:16:221633: Code  - Key.backspace
+2023-01-26 22:03:16:386083: Code  - Key.backspace
+2023-01-26 22:03:16:388551: Code  - Key.backspace
+2023-01-26 22:03:16:524435: Code  - Key.backspace
+2023-01-26 22:03:16:527966: Code  - Key.backspace
+2023-01-26 22:03:16:679430: Code  - Key.backspace
+2023-01-26 22:03:16:682064: Code  - Key.backspace
+2023-01-26 22:03:16:906856: Code  - Key.backspace
+2023-01-26 22:03:16:909089: Code  - Key.backspace
+2023-01-26 22:03:46:613108: Code  - ','
+2023-01-26 22:03:46:618665: Code  - ','
+2023-01-26 22:03:46:907570: Code  - Key.space
+2023-01-26 22:03:46:910585: Code  - Key.space
+2023-01-26 22:03:48:234613: Code  - Key.tab
+2023-01-26 22:03:48:238284: Code  - Key.tab
+2023-01-26 22:03:50:333584: Code  - Key.cmd
+2023-01-26 22:03:50:479251: Code  - 's'
+2023-01-26 22:04:27:834014: Code  - Key.enter
+==> 2023-01-26 22:04:27:834014: Code  - K e y . e n t e r
+2023-01-26 22:04:28:803222: Code  - Key.enter
+==> 2023-01-26 22:04:28:803222: Code  - K e y . e n t e r
+2023-01-26 22:04:28:807344: Code  - 'p'
+2023-01-26 22:04:28:809381: Code  - 'p'
+2023-01-26 22:04:29:010646: Code  - 'r'
+2023-01-26 22:04:29:014712: Code  - 'r'
+2023-01-26 22:04:29:133831: Code  - 'i'
+2023-01-26 22:04:29:136792: Code  - 'i'
+2023-01-26 22:04:29:335167: Code  - 'n'
+2023-01-26 22:04:29:338668: Code  - 'n'
+2023-01-26 22:04:29:451647: Code  - 't'
+2023-01-26 22:04:29:454137: Code  - 't'
+2023-01-26 22:04:29:841042: Code  - Key.shift
+2023-01-26 22:04:29:972121: Code  - '('
+2023-01-26 22:04:29:976325: Code  - '('
+2023-01-26 22:04:31:011693: Code  - Key.tab
+2023-01-26 22:04:31:015282: Code  - Key.tab
+2023-01-26 22:04:32:379630: Code  - Key.enter
+==> 2023-01-26 22:04:32:379630: Code  - ' p ' ' p ' ' r ' ' r ' ' i ' ' i ' ' n ' ' n ' ' t ' ' t ' K e y . s h i f t ' ( ' ' ( ' K e y . t a b K e y . t a b K e y . e n t e r
+2023-01-26 22:04:33:339044: Code  - Key.enter
+==> 2023-01-26 22:04:33:339044: Code  - K e y . e n t e r
+2023-01-26 22:04:33:397163: Code  - Key.tab
+2023-01-26 22:04:33:401264: Code  - Key.tab
+2023-01-26 22:04:34:928920: Code  - Key.cmd
+2023-01-26 22:04:35:100454: Code  - 's'
+2023-01-26 22:05:47:725523: Code  - Key.f5
+2023-01-26 22:06:16:099545: Code  - Key.enter
+==> 2023-01-26 22:06:16:099545: Code  - K e y . e n t e r
+2023-01-26 22:06:17:113625: Code  - Key.enter
+==> 2023-01-26 22:06:17:113625: Code  - K e y . e n t e r
+2023-01-26 22:06:17:320771: Code  - 'r'
+2023-01-26 22:06:17:324004: Code  - 'r'
+2023-01-26 22:06:17:480692: Code  - 'i'
+2023-01-26 22:06:17:485862: Code  - 'i'
+2023-01-26 22:06:17:663806: Code  - 'n'
+2023-01-26 22:06:17:666185: Code  - 'n'
+2023-01-26 22:06:17:729766: Code  - 't'
+2023-01-26 22:06:17:732740: Code  - 't'
+2023-01-26 22:06:17:998385: Code  - Key.shift
+2023-01-26 22:06:18:208020: Code  - '('
+2023-01-26 22:06:18:211693: Code  - '('
+2023-01-26 22:06:19:638611: Code  - Key.tab
+2023-01-26 22:06:19:641554: Code  - Key.tab
+2023-01-26 22:06:20:788806: Code  - Key.right
+2023-01-26 22:06:22:568629: Code  - Key.cmd
+2023-01-26 22:06:22:727446: Code  - 's'
+2023-01-26 22:06:42:901278: Code  - Key.f5
+2023-01-26 22:07:56:025558: Code  - 'j'
+2023-01-26 22:07:56:031629: Code  - 'j'
+2023-01-26 22:07:56:310685: Code  - 'o'
+2023-01-26 22:07:56:314049: Code  - 'o'
+2023-01-26 22:07:56:330841: Code  - 's'
+2023-01-26 22:07:56:333534: Code  - Key.backspace
+2023-01-26 22:07:56:336194: Code  - 'ó'
+2023-01-26 22:07:56:532189: Code  - 'n'
+2023-01-26 22:07:56:539326: Code  - 'n'
+2023-01-26 22:07:56:927579: Code  - Key.backspace
+2023-01-26 22:07:56:932223: Code  - Key.backspace
+2023-01-26 22:07:57:077427: Code  - Key.backspace
+2023-01-26 22:07:57:079628: Code  - Key.backspace
+2023-01-26 22:07:57:145227: Code  - 's'
+2023-01-26 22:07:57:147864: Code  - 's'
+2023-01-26 22:07:57:381943: Code  - 'o'
+2023-01-26 22:07:57:385809: Code  - 'o'
+2023-01-26 22:07:57:591409: Code  - 'n'
+2023-01-26 22:07:57:596936: Code  - 'n'
+2023-01-26 22:07:59:113498: Code  - Key.cmd
+2023-01-26 22:07:59:243480: Code  - 's'
+2023-01-26 22:09:34:989201: Code  - Key.enter
+==> 2023-01-26 22:09:34:989201: Code  - K e y . e n t e r
+2023-01-26 22:09:35:972578: Code  - Key.enter
+==> 2023-01-26 22:09:35:972578: Code  - K e y . e n t e r
+2023-01-26 22:09:39:199926: Code  - 'o'
+2023-01-26 22:09:39:206190: Code  - 'o'
+2023-01-26 22:09:39:373090: Code  - 's'
+2023-01-26 22:09:39:377096: Code  - Key.backspace
+2023-01-26 22:09:39:380374: Code  - 'ó'
+2023-01-26 22:09:39:659146: Code  - 's'
+2023-01-26 22:09:39:661450: Code  - Key.backspace
+2023-01-26 22:09:39:663691: Code  - 'os'
+2023-01-26 22:09:40:073518: Code  - '.'
+2023-01-26 22:09:40:077049: Code  - '.'
+2023-01-26 22:09:40:871639: Code  - 'm'
+2023-01-26 22:09:40:875196: Code  - 'm'
+2023-01-26 22:09:41:110244: Code  - 'k'
+2023-01-26 22:09:41:116133: Code  - 'k'
+2023-01-26 22:09:41:405648: Code  - 'd'
+2023-01-26 22:09:41:408159: Code  - 'd'
+2023-01-26 22:09:41:601324: Code  - 'i'
+2023-01-26 22:09:41:605097: Code  - 'i'
+2023-01-26 22:09:41:730539: Code  - 'r'
+2023-01-26 22:09:41:733757: Code  - Key.backspace
+2023-01-26 22:09:41:736533: Code  - 'ỉ'
+2023-01-26 22:09:42:078110: Code  - 'r'
+2023-01-26 22:09:42:083974: Code  - Key.backspace
+2023-01-26 22:09:42:087994: Code  - 'ir'
+2023-01-26 22:09:42:579406: Code  - Key.shift
+2023-01-26 22:09:42:682337: Code  - '('
+2023-01-26 22:09:42:685536: Code  - '('
+2023-01-26 22:09:43:769596: Code  - Key.shift
+2023-01-26 22:09:43:896378: Code  - '"'
+2023-01-26 22:09:43:900336: Code  - '"'
+2023-01-26 22:09:47:002884: Code  - Key.tab
+2023-01-26 22:09:47:006577: Code  - Key.tab
+2023-01-26 22:09:53:612393: Code  - Key.left
+2023-01-26 22:09:53:974135: Code  - Key.backspace
+2023-01-26 22:09:53:978722: Code  - Key.backspace
+2023-01-26 22:10:01:827231: Code  - Key.space
+2023-01-26 22:10:01:829855: Code  - Key.space
+2023-01-26 22:10:07:436117: Code  - Key.tab
+2023-01-26 22:10:07:440121: Code  - Key.tab
+2023-01-26 22:10:12:558504: Code  - 'o'
+2023-01-26 22:10:12:562710: Code  - 'o'
+2023-01-26 22:10:12:745726: Code  - 's'
+2023-01-26 22:10:12:749479: Code  - Key.backspace
+2023-01-26 22:10:12:753104: Code  - 'ó'
+2023-01-26 22:10:13:087509: Code  - 's'
+2023-01-26 22:10:13:090341: Code  - Key.backspace
+2023-01-26 22:10:13:093030: Code  - 'os'
+2023-01-26 22:10:13:510269: Code  - Key.shift
+2023-01-26 22:10:13:684276: Code  - 'N'
+2023-01-26 22:10:13:688058: Code  - 'N'
+2023-01-26 22:10:13:932564: Code  - 'a'
+2023-01-26 22:10:13:936860: Code  - 'a'
+2023-01-26 22:10:14:139611: Code  - 'm'
+2023-01-26 22:10:14:143582: Code  - 'm'
+2023-01-26 22:10:14:331714: Code  - 'e'
+2023-01-26 22:10:14:335317: Code  - 'e'
+2023-01-26 22:10:26:929737: Code  - '.'
+2023-01-26 22:10:26:934492: Code  - '.'
+2023-01-26 22:10:36:449130: Code  - Key.backspace
+2023-01-26 22:10:36:452964: Code  - Key.backspace
+2023-01-26 22:10:37:228168: Code  - '['
+2023-01-26 22:10:37:231350: Code  - 'ơ'
+2023-01-26 22:10:37:377536: Code  - '['
+2023-01-26 22:10:37:382251: Code  - Key.backspace
+2023-01-26 22:10:37:385419: Code  - '['
+2023-01-26 22:10:38:976338: Code  - '0'
+2023-01-26 22:10:38:981009: Code  - '0'
+2023-01-26 22:10:39:836425: Code  - Key.backspace
+2023-01-26 22:10:39:842052: Code  - Key.backspace
+2023-01-26 22:10:40:085957: Code  - '1'
+2023-01-26 22:10:40:088380: Code  - '1'
+2023-01-26 22:10:40:735556: Code  - Key.right
+2023-01-26 22:11:07:035799: Code  - Key.backspace
+2023-01-26 22:11:07:042057: Code  - Key.backspace
+2023-01-26 22:11:07:464181: Code  - Key.backspace
+2023-01-26 22:11:07:467638: Code  - Key.backspace
+2023-01-26 22:11:08:635814: Code  - Key.shift
+2023-01-26 22:11:09:001374: Code  - '('
+2023-01-26 22:11:09:005161: Code  - '('
+2023-01-26 22:11:10:645529: Code  - Key.shift
+2023-01-26 22:11:10:870720: Code  - '{'
+2023-01-26 22:11:10:874019: Code  - 'Ơ'
+2023-01-26 22:11:11:031084: Code  - '{'
+2023-01-26 22:11:11:035406: Code  - Key.backspace
+2023-01-26 22:11:11:038731: Code  - '{'
+2023-01-26 22:11:13:434166: Code  - Key.enter
+==> 2023-01-26 22:11:13:434166: Code  - ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' ' s ' K e y . b a c k s p a c e ' o s ' ' . ' ' . ' ' m ' ' m ' ' k ' ' k ' ' d ' ' d ' ' i ' ' i ' ' r ' K e y . b a c k s p a c e ' ỉ ' ' r ' K e y . b a c k s p a c e ' i r ' K e y . s h i f t ' ( ' ' ( ' K e y . s h i f t ' " ' ' " ' K e y . t a b K e y . t a b K e y . l e f t K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s p a c e K e y . s p a c e K e y . t a b K e y . t a b ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' ' s ' K e y . b a c k s p a c e ' o s ' K e y . s h i f t ' N ' ' N ' ' a ' ' a ' ' m ' ' m ' ' e ' ' e ' ' . ' ' . ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' [ ' ' ơ ' ' [ ' K e y . b a c k s p a c e ' [ ' ' 0 ' ' 0 ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' 1 ' ' 1 ' K e y . r i g h t K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' ( ' ' ( ' K e y . s h i f t ' { ' ' Ơ ' ' { ' K e y . b a c k s p a c e ' { ' K e y . e n t e r
+2023-01-26 22:11:14:439112: Code  - Key.enter
+==> 2023-01-26 22:11:14:439112: Code  - K e y . e n t e r
+2023-01-26 22:11:14:684192: Code  - Key.tab
+2023-01-26 22:11:14:687934: Code  - Key.tab
+2023-01-26 22:11:16:221474: Code  - Key.enter
+==> 2023-01-26 22:11:16:221474: Code  - K e y . t a b K e y . t a b K e y . e n t e r
+2023-01-26 22:11:17:276861: Code  - Key.enter
+==> 2023-01-26 22:11:17:276861: Code  - K e y . e n t e r
+2023-01-26 22:11:19:892591: Code  - Key.enter
+==> 2023-01-26 22:11:19:892591: Code  - K e y . e n t e r
+2023-01-26 22:11:20:935954: Code  - Key.enter
+==> 2023-01-26 22:11:20:935954: Code  - K e y . e n t e r
+2023-01-26 22:11:24:899909: Code  - Key.backspace
+2023-01-26 22:11:24:904665: Code  - Key.backspace
+2023-01-26 22:11:26:131717: Code  - ','
+2023-01-26 22:11:26:138085: Code  - ','
+2023-01-26 22:11:27:580169: Code  - Key.enter
+==> 2023-01-26 22:11:27:580169: Code  - K e y . b a c k s p a c e K e y . b a c k s p a c e ' , ' ' , ' K e y . e n t e r
+2023-01-26 22:11:28:574072: Code  - Key.enter
+==> 2023-01-26 22:11:28:574072: Code  - K e y . e n t e r
+2023-01-26 22:11:28:576248: Code  - 'm'
+2023-01-26 22:11:28:578421: Code  - 'm'
+2023-01-26 22:11:29:156919: Code  - Key.up
+2023-01-26 22:11:29:574478: Code  - Key.down
+2023-01-26 22:11:29:811857: Code  - Key.down
+2023-01-26 22:11:30:157802: Code  - Key.backspace
+2023-01-26 22:11:30:161508: Code  - Key.backspace
+2023-01-26 22:11:32:040414: Code  - Key.space
+2023-01-26 22:11:32:043463: Code  - Key.space
+2023-01-26 22:11:33:426676: Code  - Key.tab
+2023-01-26 22:11:33:430854: Code  - Key.tab
+2023-01-26 22:11:34:311236: Code  - Key.right
+2023-01-26 22:11:34:613087: Code  - ','
+2023-01-26 22:11:34:617592: Code  - ','
+2023-01-26 22:11:36:260880: Code  - Key.enter
+==> 2023-01-26 22:11:36:260880: Code  - ' m ' ' m ' K e y . u p K e y . d o w n K e y . d o w n K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s p a c e K e y . s p a c e K e y . t a b K e y . t a b K e y . r i g h t ' , ' ' , ' K e y . e n t e r
+2023-01-26 22:11:37:255903: Code  - Key.enter
+==> 2023-01-26 22:11:37:255903: Code  - K e y . e n t e r
+2023-01-26 22:11:37:690122: Code  - Key.tab
+2023-01-26 22:11:38:375924: Code  - Key.backspace
+2023-01-26 22:11:38:379210: Code  - Key.backspace
+2023-01-26 22:11:41:113652: Code  - Key.tab
+2023-01-26 22:11:41:116697: Code  - Key.tab
+2023-01-26 22:11:44:927384: Code  - Key.cmd
+2023-01-26 22:11:45:099671: Code  - 's'
+2023-01-26 22:11:45:322601: Code  - Key.cmd
+2023-01-26 22:11:49:909313: Code  - Key.f5
+2023-01-26 22:12:29:423410: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:12:29:426138: Microsoft Edge Dev  - 'C'
+2023-01-26 22:12:29:427974: Microsoft Edge Dev  - 'C'
+2023-01-26 22:12:29:429710: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:29:431560: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:29:433414: Microsoft Edge Dev  - 's'
+2023-01-26 22:12:29:434994: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:29:436586: Microsoft Edge Dev  - 'ó'
+2023-01-26 22:12:29:438252: Microsoft Edge Dev  - ','
+2023-01-26 22:12:29:439737: Microsoft Edge Dev  - ','
+2023-01-26 22:12:29:441361: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:29:442940: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:29:444607: Microsoft Edge Dev  - 'd'
+2023-01-26 22:12:29:446509: Microsoft Edge Dev  - 'd'
+2023-01-26 22:12:29:519776: Microsoft Edge Dev  - 'd'
+2023-01-26 22:12:29:524965: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:29:528582: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:12:29:743476: Microsoft Edge Dev  - 'a'
+2023-01-26 22:12:29:745848: Microsoft Edge Dev  - 'a'
+2023-01-26 22:12:29:914759: Microsoft Edge Dev  - 'a'
+2023-01-26 22:12:29:917320: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:29:919610: Microsoft Edge Dev  - 'â'
+2023-01-26 22:12:29:985572: Microsoft Edge Dev  - 'u'
+2023-01-26 22:12:29:988318: Microsoft Edge Dev  - 'u'
+2023-01-26 22:12:30:171462: Microsoft Edge Dev  - 'f'
+2023-01-26 22:12:30:176208: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:30:179709: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:30:182426: Microsoft Edge Dev  - 'ầu'
+2023-01-26 22:12:30:296824: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:30:301088: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:30:433751: Microsoft Edge Dev  - 't'
+2023-01-26 22:12:30:437888: Microsoft Edge Dev  - 't'
+2023-01-26 22:12:30:628220: Microsoft Edge Dev  - 'u'
+2023-01-26 22:12:30:631164: Microsoft Edge Dev  - 'u'
+2023-01-26 22:12:30:693724: Microsoft Edge Dev  - 'w'
+2023-01-26 22:12:30:696318: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:30:699351: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:12:30:849893: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:30:852199: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:31:097803: Microsoft Edge Dev  - 'p'
+2023-01-26 22:12:31:101118: Microsoft Edge Dev  - 'p'
+2023-01-26 22:12:31:304609: Microsoft Edge Dev  - 'h'
+2023-01-26 22:12:31:306607: Microsoft Edge Dev  - 'h'
+2023-01-26 22:12:31:463625: Microsoft Edge Dev  - 'a'
+2023-01-26 22:12:31:467184: Microsoft Edge Dev  - 'a'
+2023-01-26 22:12:31:584322: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:31:587043: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:31:806624: Microsoft Edge Dev  - 'r'
+2023-01-26 22:12:31:810691: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:31:813539: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:31:815843: Microsoft Edge Dev  - 'ải'
+2023-01-26 22:12:31:921928: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:31:924020: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:32:050969: Microsoft Edge Dev  - 's'
+2023-01-26 22:12:32:055409: Microsoft Edge Dev  - 's'
+2023-01-26 22:12:32:182538: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:32:187337: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:32:353110: Microsoft Edge Dev  - 'n'
+2023-01-26 22:12:32:357586: Microsoft Edge Dev  - 'n'
+2023-01-26 22:12:32:502062: Microsoft Edge Dev  - 'h'
+2023-01-26 22:12:32:506433: Microsoft Edge Dev  - 'h'
+2023-01-26 22:12:32:695145: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:32:700077: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:33:087235: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:33:092143: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:33:214064: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:33:217801: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:33:707513: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:33:711333: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:33:891385: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:33:895847: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:34:063591: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:34:068646: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:34:198205: Microsoft Edge Dev  - 'c'
+2023-01-26 22:12:34:202263: Microsoft Edge Dev  - 'c'
+2023-01-26 22:12:34:334179: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:34:337290: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:34:462563: Microsoft Edge Dev  - 's'
+2023-01-26 22:12:34:466438: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:34:469993: Microsoft Edge Dev  - 'ó'
+2023-01-26 22:12:34:561373: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:34:563876: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:34:765354: Microsoft Edge Dev  - 'l'
+2023-01-26 22:12:34:769911: Microsoft Edge Dev  - 'l'
+2023-01-26 22:12:34:961509: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:34:964864: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:35:227435: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:35:229496: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:35:481461: Microsoft Edge Dev  - 'w'
+2023-01-26 22:12:35:484335: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:35:486755: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:35:489079: Microsoft Edge Dev  - 'ơi'
+2023-01-26 22:12:35:726684: Microsoft Edge Dev  - 'f'
+2023-01-26 22:12:35:732753: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:35:735480: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:35:737673: Microsoft Edge Dev  - 'ời'
+2023-01-26 22:12:35:839647: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:35:842680: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:36:008868: Microsoft Edge Dev  - 'm'
+2023-01-26 22:12:36:013049: Microsoft Edge Dev  - 'm'
+2023-01-26 22:12:36:202883: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:36:205210: Microsoft Edge Dev  - 'o'
+2023-01-26 22:12:36:317117: Microsoft Edge Dev  - 'w'
+2023-01-26 22:12:36:321061: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:36:324752: Microsoft Edge Dev  - 'ơ'
+2023-01-26 22:12:36:428707: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:36:438239: Microsoft Edge Dev  - 'i'
+2023-01-26 22:12:36:506990: Microsoft Edge Dev  - 's'
+2023-01-26 22:12:36:509027: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:36:511158: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:36:513152: Microsoft Edge Dev  - 'ới'
+2023-01-26 22:12:36:637606: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:36:639718: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:37:169341: Microsoft Edge Dev  - 'l'
+2023-01-26 22:12:37:172436: Microsoft Edge Dev  - 'l'
+2023-01-26 22:12:37:243205: Microsoft Edge Dev  - 'a'
+2023-01-26 22:12:37:248354: Microsoft Edge Dev  - 'a'
+2023-01-26 22:12:37:384604: Microsoft Edge Dev  - 'm'
+2023-01-26 22:12:37:388213: Microsoft Edge Dev  - 'm'
+2023-01-26 22:12:37:500078: Microsoft Edge Dev  - 'f'
+2023-01-26 22:12:37:504036: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:37:507311: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:37:509924: Microsoft Edge Dev  - 'àm'
+2023-01-26 22:12:37:614337: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:37:617770: Microsoft Edge Dev  - Key.space
+2023-01-26 22:12:37:717819: Microsoft Edge Dev  - 'c'
+2023-01-26 22:12:37:721568: Microsoft Edge Dev  - 'c'
+2023-01-26 22:12:37:852412: Microsoft Edge Dev  - 'h'
+2023-01-26 22:12:37:856359: Microsoft Edge Dev  - 'h'
+2023-01-26 22:12:37:990181: Microsoft Edge Dev  - 'u'
+2023-01-26 22:12:37:994690: Microsoft Edge Dev  - 'u'
+2023-01-26 22:12:38:066709: Microsoft Edge Dev  - 'w'
+2023-01-26 22:12:38:072124: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:38:075940: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:12:38:252278: Microsoft Edge Dev  - 's'
+2023-01-26 22:12:38:254305: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:12:38:256395: Microsoft Edge Dev  - 'ứ'
+2023-01-26 22:12:39:922712: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:12:39:922712: Microsoft Edge Dev  - K e y . s h i f t ' C ' ' C ' ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' ' , ' ' , ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ầ u ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' K e y . s p a c e K e y . s p a c e ' p ' ' p ' ' h ' ' h ' ' a ' ' a ' ' i ' ' i ' ' r ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ả i ' K e y . s p a c e K e y . s p a c e ' s ' ' s ' ' i ' ' i ' ' n ' ' n ' ' h ' ' h ' K e y . s p a c e K e y . s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' c ' ' c ' ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' o ' ' o ' ' i ' ' i ' ' w ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ơ i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ờ i ' K e y . s p a c e K e y . s p a c e ' m ' ' m ' ' o ' ' o ' ' w ' K e y . b a c k s p a c e ' ơ ' ' i ' ' i ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ớ i ' K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' a ' ' a ' ' m ' ' m ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' à m ' K e y . s p a c e K e y . s p a c e ' c ' ' c ' ' h ' ' h ' ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' ' s ' K e y . b a c k s p a c e ' ứ ' K e y . e n t e r
+2023-01-26 22:12:41:267866: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:12:41:267866: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:13:11:706672: Microsoft Edge Dev  - 'm'
+2023-01-26 22:13:11:708801: Microsoft Edge Dev  - 'm'
+2023-01-26 22:13:11:797906: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:11:800497: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:11:950527: Microsoft Edge Dev  - 'k'
+2023-01-26 22:13:11:961941: Microsoft Edge Dev  - 'k'
+2023-01-26 22:13:12:096218: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:12:100655: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:12:227740: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:12:231861: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:12:363965: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:12:366573: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:12:518793: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:12:522631: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:12:728572: Microsoft Edge Dev  - 'r'
+2023-01-26 22:13:12:731676: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:12:734450: Microsoft Edge Dev  - 'ỉ'
+2023-01-26 22:13:13:029647: Microsoft Edge Dev  - 'r'
+2023-01-26 22:13:13:033569: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:13:036814: Microsoft Edge Dev  - 'ir'
+2023-01-26 22:13:14:198418: Microsoft Edge Dev  - Key.down
+2023-01-26 22:13:20:065248: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:13:20:065248: Microsoft Edge Dev  - ' m ' ' m ' ' a ' ' a ' ' k ' ' k ' ' e ' ' e ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' i ' ' i ' ' r ' K e y . b a c k s p a c e ' ỉ ' ' r ' K e y . b a c k s p a c e ' i r ' K e y . d o w n K e y . e n t e r
+2023-01-26 22:13:20:866254: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:13:20:866254: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:13:27:251633: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:13:27:605058: Microsoft Edge Dev  - 'T'
+2023-01-26 22:13:27:608391: Microsoft Edge Dev  - 'T'
+2023-01-26 22:13:27:911511: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:27:913735: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:28:436095: Microsoft Edge Dev  - 'j'
+2023-01-26 22:13:28:441173: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:28:444872: Microsoft Edge Dev  - 'ạ'
+2023-01-26 22:13:28:718573: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:28:723001: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:28:935508: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:28:939421: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:29:136285: Microsoft Edge Dev  - 'n'
+2023-01-26 22:13:29:141058: Microsoft Edge Dev  - 'n'
+2023-01-26 22:13:29:330816: Microsoft Edge Dev  - 'g'
+2023-01-26 22:13:29:337156: Microsoft Edge Dev  - 'g'
+2023-01-26 22:13:29:428533: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:29:431541: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:29:549671: Microsoft Edge Dev  - 'y'
+2023-01-26 22:13:29:552908: Microsoft Edge Dev  - 'y'
+2023-01-26 22:13:29:731230: Microsoft Edge Dev  - 'f'
+2023-01-26 22:13:29:733319: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:29:735377: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:29:737308: Microsoft Edge Dev  - 'ày'
+2023-01-26 22:13:29:867795: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:29:872107: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:30:163223: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:30:167630: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:30:339327: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:30:344230: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:30:348673: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:13:30:467972: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:30:471966: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:30:525852: Microsoft Edge Dev  - 's'
+2023-01-26 22:13:30:528295: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:30:530433: Microsoft Edge Dev  - 'ó'
+2023-01-26 22:13:30:693354: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:30:697548: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:31:423000: Microsoft Edge Dev  - Key.cmd
+2023-01-26 22:13:31:592751: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:31:877669: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:31:881389: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:32:254286: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:13:33:110352: Microsoft Edge Dev  - 'D'
+2023-01-26 22:13:33:114881: Microsoft Edge Dev  - 'D'
+2023-01-26 22:13:33:320736: Microsoft Edge Dev  - 'D'
+2023-01-26 22:13:33:327894: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:33:330193: Microsoft Edge Dev  - 'Đ'
+2023-01-26 22:13:33:518697: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:33:521291: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:33:700985: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:33:705301: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:33:708371: Microsoft Edge Dev  - 'â'
+2023-01-26 22:13:33:874596: Microsoft Edge Dev  - 'u'
+2023-01-26 22:13:33:878617: Microsoft Edge Dev  - 'u'
+2023-01-26 22:13:35:988679: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:13:35:988679: Microsoft Edge Dev  - K e y . s h i f t ' T ' ' T ' ' a ' ' a ' ' j ' K e y . b a c k s p a c e ' ạ ' ' i ' ' i ' K e y . s p a c e K e y . s p a c e ' n ' ' n ' ' g ' ' g ' ' a ' ' a ' ' y ' ' y ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' à y ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' K e y . s p a c e K e y . s p a c e K e y . c m d K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' D ' ' D ' ' D ' K e y . b a c k s p a c e ' Đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' K e y . e n t e r
+2023-01-26 22:13:37:629854: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:13:37:629854: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:13:37:631925: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:13:37:633936: Microsoft Edge Dev  - 'D'
+2023-01-26 22:13:37:636802: Microsoft Edge Dev  - 'D'
+2023-01-26 22:13:37:639153: Microsoft Edge Dev  - 'D'
+2023-01-26 22:13:37:641622: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:37:643761: Microsoft Edge Dev  - 'Đ'
+2023-01-26 22:13:37:645902: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:37:647879: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:37:650045: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:37:653200: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:37:655189: Microsoft Edge Dev  - 'ê'
+2023-01-26 22:13:37:657221: Microsoft Edge Dev  - 'r'
+2023-01-26 22:13:37:659178: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:37:660948: Microsoft Edge Dev  - 'ể'
+2023-01-26 22:13:37:673563: Microsoft Edge Dev  - 'n'
+2023-01-26 22:13:37:759234: Microsoft Edge Dev  - 'f'
+2023-01-26 22:13:37:762515: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:37:764865: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:37:767106: Microsoft Edge Dev  - 'òn'
+2023-01-26 22:13:37:901894: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:37:905055: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:38:013202: Microsoft Edge Dev  - 'x'
+2023-01-26 22:13:38:016413: Microsoft Edge Dev  - 'x'
+2023-01-26 22:13:38:236475: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:38:240326: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:38:371189: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:38:374023: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:38:589387: Microsoft Edge Dev  - 'l'
+2023-01-26 22:13:38:592546: Microsoft Edge Dev  - 'l'
+2023-01-26 22:13:38:679627: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:38:687355: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:38:856932: Microsoft Edge Dev  - 'w'
+2023-01-26 22:13:38:859197: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:38:861281: Microsoft Edge Dev  - 'ă'
+2023-01-26 22:13:39:018162: Microsoft Edge Dev  - 'm'
+2023-01-26 22:13:39:020304: Microsoft Edge Dev  - 'm'
+2023-01-26 22:13:39:069559: Microsoft Edge Dev  - 's'
+2023-01-26 22:13:39:071984: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:39:074673: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:39:077046: Microsoft Edge Dev  - 'ắm'
+2023-01-26 22:13:41:037235: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:13:41:037235: Microsoft Edge Dev  - K e y . s h i f t ' D ' ' D ' ' D ' K e y . b a c k s p a c e ' Đ ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' ' r ' K e y . b a c k s p a c e ' ể ' ' n ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ò n ' K e y . s p a c e K e y . s p a c e ' x ' ' x ' ' a ' ' a ' K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' a ' ' a ' ' w ' K e y . b a c k s p a c e ' ă ' ' m ' ' m ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ắ m ' K e y . e n t e r
+2023-01-26 22:13:42:652926: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:13:42:652926: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:13:42:655604: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:13:42:657612: Microsoft Edge Dev  - 'N'
+2023-01-26 22:13:42:659357: Microsoft Edge Dev  - 'N'
+2023-01-26 22:13:42:661123: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:42:662856: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:42:664507: Microsoft Edge Dev  - 'e'
+2023-01-26 22:13:42:666305: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:42:668043: Microsoft Edge Dev  - 'ê'
+2023-01-26 22:13:42:669778: Microsoft Edge Dev  - 'n'
+2023-01-26 22:13:42:671790: Microsoft Edge Dev  - 'n'
+2023-01-26 22:13:42:673852: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:42:675785: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:43:487514: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:44:676142: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:44:680725: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:44:876895: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:13:45:508007: Microsoft Edge Dev  - 'C'
+2023-01-26 22:13:45:515178: Microsoft Edge Dev  - 'C'
+2023-01-26 22:13:45:670059: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:45:672773: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:45:934036: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:45:937128: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:46:039216: Microsoft Edge Dev  - 'w'
+2023-01-26 22:13:46:042365: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:46:044723: Microsoft Edge Dev  - 'ơ'
+2023-01-26 22:13:46:299876: Microsoft Edge Dev  - 'f'
+2023-01-26 22:13:46:304167: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:46:307751: Microsoft Edge Dev  - 'ờ'
+2023-01-26 22:13:46:463070: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:46:468344: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:47:057658: Microsoft Edge Dev  - 'n'
+2023-01-26 22:13:47:061982: Microsoft Edge Dev  - 'n'
+2023-01-26 22:13:47:332959: Microsoft Edge Dev  - 'g'
+2023-01-26 22:13:47:334970: Microsoft Edge Dev  - 'g'
+2023-01-26 22:13:47:471779: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:47:475691: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:47:606148: Microsoft Edge Dev  - 'y'
+2023-01-26 22:13:47:637127: Microsoft Edge Dev  - 'y'
+2023-01-26 22:13:47:743273: Microsoft Edge Dev  - 'f'
+2023-01-26 22:13:47:745763: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:47:748448: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:47:750647: Microsoft Edge Dev  - 'ày'
+2023-01-26 22:13:47:891807: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:47:895165: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:47:990228: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:47:993208: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:48:189355: Microsoft Edge Dev  - 'd'
+2023-01-26 22:13:48:195631: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:48:209447: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:13:48:370069: Microsoft Edge Dev  - 'c'
+2023-01-26 22:13:48:374050: Microsoft Edge Dev  - 'c'
+2023-01-26 22:13:48:503715: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:48:507362: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:49:440925: Microsoft Edge Dev  - Key.cmd
+2023-01-26 22:13:49:610804: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:49:867565: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:49:870956: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:50:077792: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:13:54:291275: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:13:54:453497: Microsoft Edge Dev  - 'C'
+2023-01-26 22:13:54:458482: Microsoft Edge Dev  - 'C'
+2023-01-26 22:13:54:621798: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:54:624301: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:54:867762: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:54:871423: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:54:937762: Microsoft Edge Dev  - 'w'
+2023-01-26 22:13:54:941538: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:54:944514: Microsoft Edge Dev  - 'ơ'
+2023-01-26 22:13:55:200902: Microsoft Edge Dev  - 'f'
+2023-01-26 22:13:55:205275: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:55:208215: Microsoft Edge Dev  - 'ờ'
+2023-01-26 22:13:55:364165: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:55:370023: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:55:539815: Microsoft Edge Dev  - 'q'
+2023-01-26 22:13:55:543652: Microsoft Edge Dev  - 'q'
+2023-01-26 22:13:55:746921: Microsoft Edge Dev  - 'u'
+2023-01-26 22:13:55:750672: Microsoft Edge Dev  - 'u'
+2023-01-26 22:13:55:823426: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:55:827980: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:55:983799: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:55:987062: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:56:218246: Microsoft Edge Dev  - 'f'
+2023-01-26 22:13:56:222846: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:56:226039: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:56:228883: Microsoft Edge Dev  - 'ài'
+2023-01-26 22:13:56:429570: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:56:433638: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:56:768139: Microsoft Edge Dev  - 'k'
+2023-01-26 22:13:56:772390: Microsoft Edge Dev  - 'k'
+2023-01-26 22:13:56:973307: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:56:976298: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:57:227627: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:57:231453: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:57:389876: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:57:394291: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:57:814770: Microsoft Edge Dev  - 'k'
+2023-01-26 22:13:57:818333: Microsoft Edge Dev  - 'k'
+2023-01-26 22:13:58:092216: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:58:096498: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:58:345295: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:58:349263: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:58:484954: Microsoft Edge Dev  - 't'
+2023-01-26 22:13:58:487607: Microsoft Edge Dev  - 't'
+2023-01-26 22:13:58:628666: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:58:632805: Microsoft Edge Dev  - 'h'
+2023-01-26 22:13:58:754363: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:58:758014: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:58:937560: Microsoft Edge Dev  - 'a'
+2023-01-26 22:13:58:942265: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:58:945381: Microsoft Edge Dev  - 'â'
+2023-01-26 22:13:59:005024: Microsoft Edge Dev  - 'y'
+2023-01-26 22:13:59:007353: Microsoft Edge Dev  - 'y'
+2023-01-26 22:13:59:120244: Microsoft Edge Dev  - 's'
+2023-01-26 22:13:59:125069: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:59:128008: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:59:130775: Microsoft Edge Dev  - 'ấy'
+2023-01-26 22:13:59:276833: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:59:280222: Microsoft Edge Dev  - Key.space
+2023-01-26 22:13:59:449264: Microsoft Edge Dev  - 'l'
+2023-01-26 22:13:59:451263: Microsoft Edge Dev  - 'l'
+2023-01-26 22:13:59:629372: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:59:633771: Microsoft Edge Dev  - 'o'
+2023-01-26 22:13:59:729008: Microsoft Edge Dev  - 'w'
+2023-01-26 22:13:59:732811: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:59:735176: Microsoft Edge Dev  - 'ơ'
+2023-01-26 22:13:59:857059: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:59:861338: Microsoft Edge Dev  - 'i'
+2023-01-26 22:13:59:975724: Microsoft Edge Dev  - 'f'
+2023-01-26 22:13:59:979982: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:59:983910: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:13:59:985895: Microsoft Edge Dev  - 'ời'
+2023-01-26 22:14:00:155013: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:00:158617: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:00:729872: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:00:734335: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:147837: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:179095: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:263099: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:300648: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:319472: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:334886: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:348836: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:383830: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:415920: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:691947: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:01:695955: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:02:086444: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:02:090316: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:02:289362: Microsoft Edge Dev  - 'c'
+2023-01-26 22:14:02:293490: Microsoft Edge Dev  - 'c'
+2023-01-26 22:14:02:404519: Microsoft Edge Dev  - 'o'
+2023-01-26 22:14:02:408606: Microsoft Edge Dev  - 'o'
+2023-01-26 22:14:02:527272: Microsoft Edge Dev  - 's'
+2023-01-26 22:14:02:531461: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:02:535099: Microsoft Edge Dev  - 'ó'
+2023-01-26 22:14:02:672719: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:02:677019: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:02:819612: Microsoft Edge Dev  - 't'
+2023-01-26 22:14:02:823817: Microsoft Edge Dev  - 't'
+2023-01-26 22:14:02:978188: Microsoft Edge Dev  - 'h'
+2023-01-26 22:14:02:987088: Microsoft Edge Dev  - 'h'
+2023-01-26 22:14:03:084797: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:03:086770: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:03:273396: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:03:276810: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:03:279930: Microsoft Edge Dev  - 'â'
+2023-01-26 22:14:03:374052: Microsoft Edge Dev  - 'y'
+2023-01-26 22:14:03:376922: Microsoft Edge Dev  - 'y'
+2023-01-26 22:14:03:471721: Microsoft Edge Dev  - 's'
+2023-01-26 22:14:03:475184: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:03:479272: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:03:482336: Microsoft Edge Dev  - 'ấy'
+2023-01-26 22:14:03:603054: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:03:606713: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:03:739548: Microsoft Edge Dev  - 't'
+2023-01-26 22:14:03:743260: Microsoft Edge Dev  - 't'
+2023-01-26 22:14:03:885999: Microsoft Edge Dev  - 'h'
+2023-01-26 22:14:03:889420: Microsoft Edge Dev  - 'h'
+2023-01-26 22:14:04:027487: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:04:031317: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:04:122176: Microsoft Edge Dev  - 'n'
+2023-01-26 22:14:04:125478: Microsoft Edge Dev  - 'n'
+2023-01-26 22:14:04:214036: Microsoft Edge Dev  - 'w'
+2023-01-26 22:14:04:219723: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:04:222520: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:04:224915: Microsoft Edge Dev  - 'ăn'
+2023-01-26 22:14:04:343678: Microsoft Edge Dev  - 'g'
+2023-01-26 22:14:04:353657: Microsoft Edge Dev  - 'g'
+2023-01-26 22:14:04:430663: Microsoft Edge Dev  - 's'
+2023-01-26 22:14:04:434270: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:04:436374: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:04:438361: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:04:440307: Microsoft Edge Dev  - 'ắng'
+2023-01-26 22:14:04:520095: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:04:522221: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:04:668807: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:04:672143: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:04:836952: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:04:841112: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:04:844210: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:14:05:018011: Microsoft Edge Dev  - 'e'
+2023-01-26 22:14:05:022217: Microsoft Edge Dev  - 'e'
+2023-01-26 22:14:05:196157: Microsoft Edge Dev  - 'e'
+2023-01-26 22:14:05:200898: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:05:204223: Microsoft Edge Dev  - 'ê'
+2023-01-26 22:14:05:397973: Microsoft Edge Dev  - 'r'
+2023-01-26 22:14:05:401844: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:05:405238: Microsoft Edge Dev  - 'ể'
+2023-01-26 22:14:05:523295: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:05:527034: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:05:635689: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:05:639625: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:05:802662: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:05:807049: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:05:810139: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:14:06:016298: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:06:018378: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:06:188358: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:06:192126: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:06:195382: Microsoft Edge Dev  - 'â'
+2023-01-26 22:14:06:254654: Microsoft Edge Dev  - 'u'
+2023-01-26 22:14:06:256832: Microsoft Edge Dev  - 'u'
+2023-01-26 22:14:06:410425: Microsoft Edge Dev  - 'f'
+2023-01-26 22:14:06:415476: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:06:418707: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:06:421616: Microsoft Edge Dev  - 'ầu'
+2023-01-26 22:14:06:539740: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:06:543712: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:06:628435: Microsoft Edge Dev  - 't'
+2023-01-26 22:14:06:630924: Microsoft Edge Dev  - 't'
+2023-01-26 22:14:06:825340: Microsoft Edge Dev  - 'u'
+2023-01-26 22:14:06:828215: Microsoft Edge Dev  - 'u'
+2023-01-26 22:14:06:876375: Microsoft Edge Dev  - 'w'
+2023-01-26 22:14:06:878641: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:06:880783: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:14:07:064519: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:07:066594: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:07:140163: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:07:142290: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:07:316968: Microsoft Edge Dev  - 'd'
+2023-01-26 22:14:07:319122: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:07:321143: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:14:07:543278: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:07:549116: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:07:705411: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:07:709830: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:07:712658: Microsoft Edge Dev  - 'â'
+2023-01-26 22:14:07:721729: Microsoft Edge Dev  - 'u'
+2023-01-26 22:14:07:724187: Microsoft Edge Dev  - 'u'
+2023-01-26 22:14:07:921543: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:07:925203: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:08:108469: Microsoft Edge Dev  - 'm'
+2023-01-26 22:14:08:112301: Microsoft Edge Dev  - 'm'
+2023-01-26 22:14:08:174340: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:08:178189: Microsoft Edge Dev  - 'a'
+2023-01-26 22:14:08:382166: Microsoft Edge Dev  - 'f'
+2023-01-26 22:14:08:386164: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:14:08:389316: Microsoft Edge Dev  - 'à'
+2023-01-26 22:14:08:470961: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:08:474523: Microsoft Edge Dev  - Key.space
+2023-01-26 22:14:08:656943: Microsoft Edge Dev  - 'l'
+2023-01-26 22:14:08:659255: Microsoft Edge Dev  - 'l'
+2023-01-26 22:14:08:821070: Microsoft Edge Dev  - 'o'
+2023-01-26 22:14:08:824536: Microsoft Edge Dev  - 'o'
+2023-01-26 22:14:10:498168: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:14:10:498168: Microsoft Edge Dev  - K e y . s h i f t ' N ' ' N ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' ' n ' ' n ' K e y . s p a c e K e y . s p a c e ' a ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' C ' ' C ' ' h ' ' h ' ' o ' ' o ' ' w ' K e y . b a c k s p a c e ' ơ ' ' f ' K e y . b a c k s p a c e ' ờ ' K e y . s p a c e K e y . s p a c e ' n ' ' n ' ' g ' ' g ' ' a ' ' a ' ' y ' ' y ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' à y ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' c ' ' c ' K e y . s p a c e K e y . s p a c e K e y . c m d K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t K e y . s h i f t ' C ' ' C ' ' h ' ' h ' ' o ' ' o ' ' w ' K e y . b a c k s p a c e ' ơ ' ' f ' K e y . b a c k s p a c e ' ờ ' K e y . s p a c e K e y . s p a c e ' q ' ' q ' ' u ' ' u ' ' a ' ' a ' ' i ' ' i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' à i ' K e y . s p a c e K e y . s p a c e ' k ' ' k ' ' h ' ' h ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' k ' ' k ' ' h ' ' h ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' h ' ' h ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' y ' ' y ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ấ y ' K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' o ' ' o ' ' w ' K e y . b a c k s p a c e ' ơ ' ' i ' ' i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ờ i ' K e y . s p a c e K e y . s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' c ' ' c ' ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' h ' ' h ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' y ' ' y ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ấ y ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' h ' ' h ' ' a ' ' a ' ' n ' ' n ' ' w ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ă n ' ' g ' ' g ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' ắ n g ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' ' r ' K e y . b a c k s p a c e ' ể ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ầ u ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' K e y . s p a c e K e y . s p a c e ' m ' ' m ' ' a ' ' a ' ' f ' K e y . b a c k s p a c e ' à ' K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' o ' ' o ' K e y . e n t e r
+2023-01-26 22:14:11:861750: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:14:11:861750: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:14:56:244741: Code  - 's'
+2023-01-26 22:14:56:247280: Code  - 's'
+2023-01-26 22:14:56:249449: Code  - Key.backspace
+2023-01-26 22:14:56:251286: Code  - Key.backspace
+2023-01-26 22:14:56:366647: Code  - Key.right
+2023-01-26 22:14:57:022916: Code  - Key.right
+2023-01-26 22:14:57:373164: Code  - '.'
+2023-01-26 22:14:57:377013: Code  - '.'
+2023-01-26 22:14:58:009904: Code  - '/'
+2023-01-26 22:14:58:013836: Code  - '/'
+2023-01-26 22:15:01:594496: Code  - Key.cmd
+2023-01-26 22:15:01:770984: Code  - 's'
+2023-01-26 22:15:04:531678: Code  - Key.f5
+2023-01-26 22:15:28:711251: Code  - 's'
+2023-01-26 22:15:28:716649: Code  - 's'
+2023-01-26 22:16:09:974038: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:16:09:977557: Microsoft Edge Dev  - 'G'
+2023-01-26 22:16:09:979700: Microsoft Edge Dev  - 'G'
+2023-01-26 22:16:09:983070: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:09:985254: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:09:987288: Microsoft Edge Dev  - 'w'
+2023-01-26 22:16:09:989319: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:09:991424: Microsoft Edge Dev  - 'ă'
+2023-01-26 22:16:09:993469: Microsoft Edge Dev  - 'p'
+2023-01-26 22:16:09:995710: Microsoft Edge Dev  - 'p'
+2023-01-26 22:16:09:997924: Microsoft Edge Dev  - 'j'
+2023-01-26 22:16:09:999955: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:10:001827: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:10:003819: Microsoft Edge Dev  - 'ặp'
+2023-01-26 22:16:10:005895: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:10:007919: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:10:144258: Microsoft Edge Dev  - 'i'
+2023-01-26 22:16:10:146639: Microsoft Edge Dev  - 'i'
+2023-01-26 22:16:10:349715: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:10:353247: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:10:551607: Microsoft Edge Dev  - 'l'
+2023-01-26 22:16:10:555756: Microsoft Edge Dev  - 'l'
+2023-01-26 22:16:10:669751: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:10:673806: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:10:932699: Microsoft Edge Dev  - 'f'
+2023-01-26 22:16:10:937030: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:10:940521: Microsoft Edge Dev  - 'à'
+2023-01-26 22:16:11:105625: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:11:133449: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:11:232716: Microsoft Edge Dev  - 't'
+2023-01-26 22:16:11:234923: Microsoft Edge Dev  - 't'
+2023-01-26 22:16:11:506029: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:11:508958: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:11:924892: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:11:955789: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:11:989481: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:12:023650: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:12:056152: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:12:497013: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:12:499847: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:12:902906: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:12:907436: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:13:851218: Microsoft Edge Dev  - 'l'
+2023-01-26 22:16:13:854210: Microsoft Edge Dev  - 'l'
+2023-01-26 22:16:14:091299: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:14:095443: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:14:465750: Microsoft Edge Dev  - 'f'
+2023-01-26 22:16:14:470160: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:14:473481: Microsoft Edge Dev  - 'à'
+2023-01-26 22:16:14:689712: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:14:691928: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:14:836647: Microsoft Edge Dev  - 't'
+2023-01-26 22:16:14:838757: Microsoft Edge Dev  - 't'
+2023-01-26 22:16:14:971523: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:14:975640: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:23:364144: Microsoft Edge Dev  - 'k'
+2023-01-26 22:16:23:367628: Microsoft Edge Dev  - 'k'
+2023-01-26 22:16:23:571945: Microsoft Edge Dev  - 'h'
+2023-01-26 22:16:23:575474: Microsoft Edge Dev  - 'h'
+2023-01-26 22:16:23:763873: Microsoft Edge Dev  - 'u'
+2023-01-26 22:16:23:768083: Microsoft Edge Dev  - 'u'
+2023-01-26 22:16:23:940859: Microsoft Edge Dev  - 'i'
+2023-01-26 22:16:23:944432: Microsoft Edge Dev  - 'i'
+2023-01-26 22:16:24:143597: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:24:147883: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:24:564406: Microsoft Edge Dev  - 'm'
+2023-01-26 22:16:24:568592: Microsoft Edge Dev  - 'm'
+2023-01-26 22:16:24:759615: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:24:763495: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:25:058422: Microsoft Edge Dev  - 'd'
+2023-01-26 22:16:25:062439: Microsoft Edge Dev  - 'd'
+2023-01-26 22:16:25:244996: Microsoft Edge Dev  - 'd'
+2023-01-26 22:16:25:249235: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:25:252204: Microsoft Edge Dev  - 'đ'
+2023-01-26 22:16:25:469381: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:25:471398: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:25:644700: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:25:648809: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:25:652191: Microsoft Edge Dev  - 'â'
+2023-01-26 22:16:25:750989: Microsoft Edge Dev  - 'u'
+2023-01-26 22:16:25:754827: Microsoft Edge Dev  - 'u'
+2023-01-26 22:16:25:887595: Microsoft Edge Dev  - 'f'
+2023-01-26 22:16:25:891891: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:25:895475: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:25:898093: Microsoft Edge Dev  - 'ầu'
+2023-01-26 22:16:26:038747: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:26:042804: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:26:156902: Microsoft Edge Dev  - 't'
+2023-01-26 22:16:26:160569: Microsoft Edge Dev  - 't'
+2023-01-26 22:16:26:348374: Microsoft Edge Dev  - 'i'
+2023-01-26 22:16:26:352718: Microsoft Edge Dev  - 'i'
+2023-01-26 22:16:26:436186: Microsoft Edge Dev  - 'e'
+2023-01-26 22:16:26:439929: Microsoft Edge Dev  - 'e'
+2023-01-26 22:16:26:620404: Microsoft Edge Dev  - 'e'
+2023-01-26 22:16:26:624402: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:26:627939: Microsoft Edge Dev  - 'ê'
+2023-01-26 22:16:26:743564: Microsoft Edge Dev  - 'n'
+2023-01-26 22:16:26:745707: Microsoft Edge Dev  - 'n'
+2023-01-26 22:16:26:930462: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:26:932425: Microsoft Edge Dev  - Key.space
+2023-01-26 22:16:27:161456: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:27:165356: Microsoft Edge Dev  - 'a'
+2023-01-26 22:16:27:385678: Microsoft Edge Dev  - 's'
+2023-01-26 22:16:27:390097: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:27:393158: Microsoft Edge Dev  - 'á'
+2023-01-26 22:16:29:181980: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:16:29:181980: Microsoft Edge Dev  - K e y . s h i f t ' G ' ' G ' ' a ' ' a ' ' w ' K e y . b a c k s p a c e ' ă ' ' p ' ' p ' ' j ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ặ p ' K e y . s p a c e K e y . s p a c e ' i ' ' i ' K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' a ' ' a ' ' f ' K e y . b a c k s p a c e ' à ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' a ' ' a ' ' f ' K e y . b a c k s p a c e ' à ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' K e y . s p a c e K e y . s p a c e ' k ' ' k ' ' h ' ' h ' ' u ' ' u ' ' i ' ' i ' K e y . s p a c e K e y . s p a c e ' m ' ' m ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' a ' ' a ' ' a ' K e y . b a c k s p a c e ' â ' ' u ' ' u ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ầ u ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' i ' ' i ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' ' n ' ' n ' K e y . s p a c e K e y . s p a c e ' a ' ' a ' ' s ' K e y . b a c k s p a c e ' á ' K e y . e n t e r
+2023-01-26 22:16:30:418765: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:16:30:418765: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:16:30:421048: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:16:30:422847: Microsoft Edge Dev  - 'K'
+2023-01-26 22:16:30:424537: Microsoft Edge Dev  - 'K'
+2023-01-26 22:16:30:630846: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:665816: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:696871: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:729680: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:784293: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:855047: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:867095: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:869476: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:897331: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:16:30:931339: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:17:51:788702: Microsoft Edge Dev  - Key.cmd
+2023-01-26 22:17:52:001792: Microsoft Edge Dev  - Clipboard: import os
+
+
+cwd = os.getcwd()
+print(cwd)
+2023-01-26 22:17:52:013802: Microsoft Edge Dev  - 'c'
+2023-01-26 22:17:59:140741: Code  - Key.enter
+==> 2023-01-26 22:17:59:140741: Code  - K e y . s h i f t ' K ' ' K ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . c m d K e y . e n t e r
+2023-01-26 22:18:00:084379: Code  - Key.enter
+==> 2023-01-26 22:18:00:084379: Code  - K e y . e n t e r
+2023-01-26 22:18:01:018347: Code  - Key.enter
+==> 2023-01-26 22:18:01:018347: Code  - K e y . e n t e r
+2023-01-26 22:18:01:960200: Code  - Key.enter
+==> 2023-01-26 22:18:01:960200: Code  - K e y . e n t e r
+2023-01-26 22:18:01:962069: Code  - Key.backspace
+2023-01-26 22:18:01:963948: Code  - Key.backspace
+2023-01-26 22:18:01:965803: Code  - Key.cmd
+2023-01-26 22:18:02:889334: Code  - Key.enter
+==> 2023-01-26 22:18:02:889334: Code  - K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . c m d
+2023-01-26 22:18:03:829570: Code  - Key.enter
+==> 2023-01-26 22:18:03:829570: Code  - K e y . e n t e r
+2023-01-26 22:18:03:832557: Code  - Key.cmd
+2023-01-26 22:18:03:835574: Code  - 'v'
+2023-01-26 22:18:03:838277: Code  - Key.f5
+2023-01-26 22:18:22:705887: Code  - Key.backspace
+2023-01-26 22:18:22:710433: Code  - Key.backspace
+2023-01-26 22:18:51:204248: Code  - Key.backspace
+2023-01-26 22:18:51:208091: Code  - Key.backspace
+2023-01-26 22:18:53:618975: Code  - Key.enter
+==> 2023-01-26 22:18:53:618975: Code  - K e y . c m d K e y . f 5 K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . e n t e r
+2023-01-26 22:18:54:998447: Code  - Key.enter
+==> 2023-01-26 22:18:54:998447: Code  - K e y . e n t e r
+2023-01-26 22:18:55:000829: Code  - 'd'
+2023-01-26 22:18:55:002619: Code  - 'd'
+2023-01-26 22:18:55:004352: Code  - 'i'
+2023-01-26 22:18:55:006319: Code  - 'i'
+2023-01-26 22:18:55:008622: Code  - 'r'
+2023-01-26 22:18:55:011311: Code  - Key.backspace
+2023-01-26 22:18:55:014184: Code  - 'ỉ'
+2023-01-26 22:18:55:016512: Code  - 'r'
+2023-01-26 22:18:55:018532: Code  - Key.backspace
+2023-01-26 22:18:55:020599: Code  - 'ir'
+2023-01-26 22:18:55:022878: Code  - Key.space
+2023-01-26 22:18:55:025140: Code  - Key.space
+2023-01-26 22:18:55:880130: Code  - '='
+2023-01-26 22:18:56:230372: Code  - Key.space
+2023-01-26 22:18:56:233265: Code  - Key.space
+2023-01-26 22:18:56:543999: Code  - 'o'
+2023-01-26 22:18:56:549246: Code  - 'o'
+2023-01-26 22:18:56:751628: Code  - 's'
+2023-01-26 22:18:56:754115: Code  - Key.backspace
+2023-01-26 22:18:56:756809: Code  - 'ó'
+2023-01-26 22:18:56:883333: Code  - 's'
+2023-01-26 22:18:56:889643: Code  - Key.backspace
+2023-01-26 22:18:56:894816: Code  - 'os'
+2023-01-26 22:18:57:431003: Code  - '.'
+2023-01-26 22:18:57:434847: Code  - '.'
+2023-01-26 22:18:57:835217: Code  - 'p'
+2023-01-26 22:18:57:838847: Code  - 'p'
+2023-01-26 22:18:59:713553: Code  - Key.enter
+==> 2023-01-26 22:18:59:713553: Code  - ' d ' ' d ' ' i ' ' i ' ' r ' K e y . b a c k s p a c e ' ỉ ' ' r ' K e y . b a c k s p a c e ' i r ' K e y . s p a c e K e y . s p a c e ' = ' K e y . s p a c e K e y . s p a c e ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' ' s ' K e y . b a c k s p a c e ' o s ' ' . ' ' . ' ' p ' ' p ' K e y . e n t e r
+2023-01-26 22:19:00:661933: Code  - Key.enter
+==> 2023-01-26 22:19:00:661933: Code  - K e y . e n t e r
+2023-01-26 22:19:03:813075: Code  - '.'
+2023-01-26 22:19:03:817781: Code  - '.'
+2023-01-26 22:19:04:310532: Code  - 'j'
+2023-01-26 22:19:04:312884: Code  - 'j'
+2023-01-26 22:19:05:849508: Code  - Key.enter
+==> 2023-01-26 22:19:05:849508: Code  - ' . ' ' . ' ' j ' ' j ' K e y . e n t e r
+2023-01-26 22:19:06:798596: Code  - Key.enter
+==> 2023-01-26 22:19:06:798596: Code  - K e y . e n t e r
+2023-01-26 22:19:07:170634: Code  - Key.tab
+2023-01-26 22:19:07:172818: Code  - Key.tab
+2023-01-26 22:19:09:069292: Code  - Key.left
+2023-01-26 22:19:09:661461: Code  - ','
+2023-01-26 22:19:09:664101: Code  - ','
+2023-01-26 22:19:09:929791: Code  - Key.space
+2023-01-26 22:19:09:932503: Code  - Key.space
+2023-01-26 22:19:19:400186: Code  - Key.tab
+2023-01-26 22:19:19:403979: Code  - Key.tab
+2023-01-26 22:19:32:271835: Code  - Key.page_up
+2023-01-26 22:19:32:579782: Code  - Key.page_up
+2023-01-26 22:19:51:680056: Code  - Key.backspace
+2023-01-26 22:19:51:683765: Code  - Key.backspace
+2023-01-26 22:19:51:938733: Code  - Key.backspace
+2023-01-26 22:19:51:944369: Code  - Key.backspace
+2023-01-26 22:19:52:957274: Code  - Key.space
+2023-01-26 22:19:52:960364: Code  - Key.space
+2023-01-26 22:19:53:265781: Code  - Key.shift_r
+2023-01-26 22:19:53:706804: Code  - '_'
+2023-01-26 22:19:53:710726: Code  - '_'
+2023-01-26 22:19:54:048514: Code  - Key.space
+2023-01-26 22:19:54:050722: Code  - Key.space
+2023-01-26 22:19:54:343983: Code  - Key.backspace
+2023-01-26 22:19:54:348105: Code  - Key.backspace
+2023-01-26 22:19:54:516019: Code  - Key.backspace
+2023-01-26 22:19:54:519831: Code  - Key.backspace
+2023-01-26 22:19:54:695025: Code  - Key.backspace
+2023-01-26 22:19:54:730497: Code  - Key.backspace
+2023-01-26 22:19:55:035610: Code  - Key.shift_r
+2023-01-26 22:19:55:584290: Code  - '+'
+2023-01-26 22:19:55:589138: Code  - '+'
+2023-01-26 22:19:57:233143: Code  - Key.backspace
+2023-01-26 22:19:57:235897: Code  - Key.backspace
+2023-01-26 22:19:57:498640: Code  - Key.space
+2023-01-26 22:19:57:502814: Code  - Key.space
+2023-01-26 22:19:57:857275: Code  - Key.shift_r
+2023-01-26 22:19:58:197129: Code  - '+'
+2023-01-26 22:19:58:201882: Code  - '+'
+2023-01-26 22:19:58:773938: Code  - Key.backspace
+2023-01-26 22:19:58:777777: Code  - Key.backspace
+2023-01-26 22:20:01:211057: Code  - Key.enter
+==> 2023-01-26 22:20:01:211057: Code  - K e y . t a b K e y . t a b K e y . l e f t ' , ' ' , ' K e y . s p a c e K e y . s p a c e K e y . t a b K e y . t a b K e y . p a g e _ u p K e y . p a g e _ u p K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s p a c e K e y . s p a c e K e y . s h i f t _ r ' _ ' ' _ ' K e y . s p a c e K e y . s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t _ r ' + ' ' + ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s p a c e K e y . s p a c e K e y . s h i f t _ r ' + ' ' + ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . e n t e r
+2023-01-26 22:20:02:343917: Code  - Key.enter
+==> 2023-01-26 22:20:02:343917: Code  - K e y . e n t e r
+2023-01-26 22:20:02:347873: Code  - 'f'
+2023-01-26 22:20:02:350810: Code  - 'f'
+2023-01-26 22:20:02:357890: Code  - 'i'
+2023-01-26 22:20:02:360130: Code  - 'i'
+2023-01-26 22:20:02:362941: Code  - 'l'
+2023-01-26 22:20:02:365607: Code  - 'l'
+2023-01-26 22:20:02:368632: Code  - 'e'
+2023-01-26 22:20:02:374703: Code  - 'e'
+2023-01-26 22:20:03:334798: Code  - Key.shift
+2023-01-26 22:20:03:422363: Code  - '_'
+2023-01-26 22:20:03:425454: Code  - '_'
+2023-01-26 22:20:04:812101: Code  - 'n'
+2023-01-26 22:20:04:816384: Code  - 'n'
+2023-01-26 22:20:04:958744: Code  - 'a'
+2023-01-26 22:20:04:962903: Code  - 'a'
+2023-01-26 22:20:05:128084: Code  - 'm'
+2023-01-26 22:20:05:131900: Code  - 'm'
+2023-01-26 22:20:05:273155: Code  - 'e'
+2023-01-26 22:20:05:277413: Code  - 'e'
+2023-01-26 22:20:05:413410: Code  - Key.space
+2023-01-26 22:20:05:417368: Code  - Key.space
+2023-01-26 22:20:06:318202: Code  - '='
+2023-01-26 22:20:06:323739: Code  - '='
+2023-01-26 22:20:07:435865: Code  - Key.tab
+2023-01-26 22:20:07:439599: Code  - Key.tab
+2023-01-26 22:21:08:604160: Code  - '['
+2023-01-26 22:21:08:608731: Code  - 'ơ'
+2023-01-26 22:21:08:820951: Code  - '['
+2023-01-26 22:21:08:825613: Code  - Key.backspace
+2023-01-26 22:21:08:828705: Code  - '['
+2023-01-26 22:21:09:636702: Code  - '0'
+2023-01-26 22:21:09:639454: Code  - '0'
+2023-01-26 22:21:18:496022: Code  - Key.backspace
+2023-01-26 22:21:18:499624: Code  - Key.backspace
+2023-01-26 22:21:20:734176: Code  - Key.tab
+2023-01-26 22:21:20:737989: Code  - Key.tab
+2023-01-26 22:21:26:190644: Code  - Key.enter
+==> 2023-01-26 22:21:26:190644: Code  - ' f ' ' f ' ' i ' ' i ' ' l ' ' l ' ' e ' ' e ' K e y . s h i f t ' _ ' ' _ ' ' n ' ' n ' ' a ' ' a ' ' m ' ' m ' ' e ' ' e ' K e y . s p a c e K e y . s p a c e ' = ' ' = ' K e y . t a b K e y . t a b ' [ ' ' ơ ' ' [ ' K e y . b a c k s p a c e ' [ ' ' 0 ' ' 0 ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . t a b K e y . t a b K e y . e n t e r
+2023-01-26 22:21:27:176681: Code  - Key.enter
+==> 2023-01-26 22:21:27:176681: Code  - K e y . e n t e r
+2023-01-26 22:21:28:549275: Code  - Key.tab
+2023-01-26 22:21:28:552995: Code  - Key.tab
+2023-01-26 22:21:29:853356: Code  - Key.enter
+==> 2023-01-26 22:21:29:853356: Code  - K e y . t a b K e y . t a b K e y . e n t e r
+2023-01-26 22:21:30:874626: Code  - Key.enter
+==> 2023-01-26 22:21:30:874626: Code  - K e y . e n t e r
+2023-01-26 22:21:30:877269: Code  - Key.tab
+2023-01-26 22:21:30:878904: Code  - Key.tab
+2023-01-26 22:21:31:894538: Code  - Key.enter
+==> 2023-01-26 22:21:31:894538: Code  - K e y . t a b K e y . t a b K e y . e n t e r
+2023-01-26 22:21:32:911583: Code  - Key.enter
+==> 2023-01-26 22:21:32:911583: Code  - K e y . e n t e r
+2023-01-26 22:21:34:849678: Code  - Key.cmd
+2023-01-26 22:21:35:007419: Code  - 's'
+2023-01-26 22:22:07:877274: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:22:10:394438: Microsoft Edge Dev  - 'R'
+2023-01-26 22:22:10:397506: Microsoft Edge Dev  - 'R'
+2023-01-26 22:22:10:585798: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:10:590252: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:10:757100: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:10:759926: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:10:762351: Microsoft Edge Dev  - 'ô'
+2023-01-26 22:22:10:918818: Microsoft Edge Dev  - 'i'
+2023-01-26 22:22:10:921479: Microsoft Edge Dev  - 'i'
+2023-01-26 22:22:11:103409: Microsoft Edge Dev  - 'f'
+2023-01-26 22:22:11:107315: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:11:111178: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:11:113913: Microsoft Edge Dev  - 'ồi'
+2023-01-26 22:22:11:265243: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:11:269398: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:11:533531: Microsoft Edge Dev  - 'c'
+2023-01-26 22:22:11:538108: Microsoft Edge Dev  - 'c'
+2023-01-26 22:22:11:690207: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:11:693960: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:11:839465: Microsoft Edge Dev  - 's'
+2023-01-26 22:22:11:841672: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:11:843747: Microsoft Edge Dev  - 'ó'
+2023-01-26 22:22:12:005294: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:12:007226: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:12:202665: Microsoft Edge Dev  - 't'
+2023-01-26 22:22:12:206685: Microsoft Edge Dev  - 't'
+2023-01-26 22:22:12:340609: Microsoft Edge Dev  - 'h'
+2023-01-26 22:22:12:342985: Microsoft Edge Dev  - 'h'
+2023-01-26 22:22:12:823313: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:12:827273: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:16:569674: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:16:572383: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:16:989328: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:020170: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:054901: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:088404: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:121842: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:154713: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:228409: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:297751: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:301029: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:303087: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:323164: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:357398: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:390620: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:424060: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:458180: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:492002: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:525601: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:559430: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:593116: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:627042: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:660183: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:694346: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:728356: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:761738: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:795971: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:832923: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:867464: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:901813: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:936390: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:17:971692: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:24:974410: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:22:25:141857: Microsoft Edge Dev  - 'D'
+2023-01-26 22:22:25:145725: Microsoft Edge Dev  - 'D'
+2023-01-26 22:22:25:288398: Microsoft Edge Dev  - 'D'
+2023-01-26 22:22:25:291160: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:25:293280: Microsoft Edge Dev  - 'Đ'
+2023-01-26 22:22:25:857362: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:25:861095: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:26:010952: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:26:014217: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:26:016709: Microsoft Edge Dev  - 'ô'
+2023-01-26 22:22:26:162467: Microsoft Edge Dev  - 'i'
+2023-01-26 22:22:26:164557: Microsoft Edge Dev  - 'i'
+2023-01-26 22:22:26:354459: Microsoft Edge Dev  - 'r'
+2023-01-26 22:22:26:356623: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:26:358651: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:26:363312: Microsoft Edge Dev  - 'ổi'
+2023-01-26 22:22:26:425042: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:26:427151: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:26:621256: Microsoft Edge Dev  - 's'
+2023-01-26 22:22:26:625027: Microsoft Edge Dev  - 's'
+2023-01-26 22:22:26:766964: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:26:772012: Microsoft Edge Dev  - 'o'
+2023-01-26 22:22:26:959200: Microsoft Edge Dev  - 'n'
+2023-01-26 22:22:26:962860: Microsoft Edge Dev  - 'n'
+2023-01-26 22:22:27:147054: Microsoft Edge Dev  - 'g'
+2023-01-26 22:22:27:150951: Microsoft Edge Dev  - 'g'
+2023-01-26 22:22:27:207117: Microsoft Edge Dev  - 'f'
+2023-01-26 22:22:27:211756: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:27:215532: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:27:218403: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:27:220895: Microsoft Edge Dev  - 'òng'
+2023-01-26 22:22:27:363947: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:27:368052: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:27:621059: Microsoft Edge Dev  - 'l'
+2023-01-26 22:22:27:624561: Microsoft Edge Dev  - 'l'
+2023-01-26 22:22:27:720871: Microsoft Edge Dev  - 'e'
+2023-01-26 22:22:27:724203: Microsoft Edge Dev  - 'e'
+2023-01-26 22:22:28:169956: Microsoft Edge Dev  - 'j'
+2023-01-26 22:22:28:173668: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:28:176437: Microsoft Edge Dev  - 'ẹ'
+2023-01-26 22:22:28:374333: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:28:378119: Microsoft Edge Dev  - Key.space
+2023-01-26 22:22:28:459718: Microsoft Edge Dev  - 'd'
+2023-01-26 22:22:28:466100: Microsoft Edge Dev  - 'd'
+2023-01-26 22:22:28:712788: Microsoft Edge Dev  - 'w'
+2023-01-26 22:22:28:716642: Microsoft Edge Dev  - 'ư'
+2023-01-26 22:22:28:951851: Microsoft Edge Dev  - 'x'
+2023-01-26 22:22:28:956410: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:28:959605: Microsoft Edge Dev  - 'ữ'
+2023-01-26 22:22:31:411740: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:22:31:411740: Microsoft Edge Dev  - K e y . s h i f t ' R ' ' R ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' i ' ' i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ồ i ' K e y . s p a c e K e y . s p a c e ' c ' ' c ' ' o ' ' o ' ' s ' K e y . b a c k s p a c e ' ó ' K e y . s p a c e K e y . s p a c e ' t ' ' t ' ' h ' ' h ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' D ' ' D ' ' D ' K e y . b a c k s p a c e ' Đ ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' i ' ' i ' ' r ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ổ i ' K e y . s p a c e K e y . s p a c e ' s ' ' s ' ' o ' ' o ' ' n ' ' n ' ' g ' ' g ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' ò n g ' K e y . s p a c e K e y . s p a c e ' l ' ' l ' ' e ' ' e ' ' j ' K e y . b a c k s p a c e ' ẹ ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' w ' ' ư ' ' x ' K e y . b a c k s p a c e ' ữ ' K e y . e n t e r
+2023-01-26 22:22:32:683281: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 22:22:32:683281: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 22:22:32:685331: Microsoft Edge Dev  - Key.shift
+2023-01-26 22:22:32:687094: Microsoft Edge Dev  - 'N'
+2023-01-26 22:22:32:688924: Microsoft Edge Dev  - 'N'
+2023-01-26 22:22:32:690739: Microsoft Edge Dev  - 'h'
+2023-01-26 22:22:32:692725: Microsoft Edge Dev  - 'h'
+2023-01-26 22:22:32:694602: Microsoft Edge Dev  - 'a'
+2023-01-26 22:22:32:696565: Microsoft Edge Dev  - 'a'
+2023-01-26 22:22:32:698502: Microsoft Edge Dev  - 'w'
+2023-01-26 22:22:32:700373: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:32:702188: Microsoft Edge Dev  - 'ă'
+2023-01-26 22:22:32:704095: Microsoft Edge Dev  - 'm'
+2023-01-26 22:22:32:705953: Microsoft Edge Dev  - 'm'
+2023-01-26 22:22:32:707720: Microsoft Edge Dev  - 's'
+2023-01-26 22:22:32:709434: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:32:711091: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:32:712748: Microsoft Edge Dev  - 'ắm'
+2023-01-26 22:22:33:373622: Microsoft Edge Dev  - 'N'
+2023-01-26 22:22:33:377488: Microsoft Edge Dev  - 'N'
+2023-01-26 22:22:33:593147: Microsoft Edge Dev  - 'a'
+2023-01-26 22:22:33:595869: Microsoft Edge Dev  - 'a'
+2023-01-26 22:22:33:873859: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:33:877671: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:34:067495: Microsoft Edge Dev  - Key.backspace
+2023-01-26 22:22:34:069554: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:14:33:150141: Code  - ','
+2023-01-26 23:14:33:156026: Code  - ','
+2023-01-26 23:14:33:663270: Code  - Key.backspace
+2023-01-26 23:14:33:669314: Code  - Key.backspace
+2023-01-26 23:14:34:753281: Code  - ','
+2023-01-26 23:14:34:759089: Code  - ','
+2023-01-26 23:14:34:955002: Code  - Key.space
+2023-01-26 23:14:34:959084: Code  - Key.space
+2023-01-26 23:14:35:171054: Code  - 'j'
+2023-01-26 23:14:35:174460: Code  - 'j'
+2023-01-26 23:14:35:321767: Code  - 's'
+2023-01-26 23:14:35:324881: Code  - 's'
+2023-01-26 23:14:35:404992: Code  - 'o'
+2023-01-26 23:14:35:408805: Code  - 'o'
+2023-01-26 23:14:35:587568: Code  - 'n'
+2023-01-26 23:14:35:592926: Code  - 'n'
+2023-01-26 23:14:38:886859: Code  - Key.enter
+==> 2023-01-26 23:14:38:886859: Code  - ' , ' ' , ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' , ' ' , ' K e y . s p a c e K e y . s p a c e ' j ' ' j ' ' s ' ' s ' ' o ' ' o ' ' n ' ' n ' K e y . e n t e r
+2023-01-26 23:14:39:865848: Code  - Key.enter
+==> 2023-01-26 23:14:39:865848: Code  - K e y . e n t e r
+2023-01-26 23:14:40:286590: Code  - Key.tab
+2023-01-26 23:14:40:291295: Code  - Key.tab
+2023-01-26 23:14:41:925634: Code  - Key.cmd
+2023-01-26 23:14:42:050504: Code  - 's'
+2023-01-26 23:15:22:584703: Code  - Key.backspace
+2023-01-26 23:15:22:591083: Code  - Key.backspace
+2023-01-26 23:15:24:454492: Code  - Key.cmd
+2023-01-26 23:15:24:658228: Code  - 's'
+2023-01-26 23:34:08:483496: Code  - Pressed at (775.38232421875, 426.1370849609375)
+2023-01-26 23:34:08:509713: Code  - Released at (775.38232421875, 426.1370849609375)
+2023-01-26 23:34:12:112684: Code  - Pressed at (1307.914306640625, 474.59149169921875)
+2023-01-26 23:34:12:135563: Code  - Released at (1307.914306640625, 474.59149169921875)
+2023-01-26 23:34:23:862145: Code  - Pressed at (780.87646484375, 18.248138427734375)
+2023-01-26 23:34:23:881797: Code  - Released at (780.87646484375, 18.248138427734375)
+2023-01-26 23:34:25:629594: Code  - Pressed at (1429.601318359375, 65.3365478515625)
+2023-01-26 23:37:16:442741: Microsoft Edge Dev Facebook 🔊 - Key.shift
+2023-01-26 23:37:16:463172: Microsoft Edge Dev Facebook 🔊 - 'N'
+2023-01-26 23:37:16:475886: Microsoft Edge Dev Facebook 🔊 - 'N'
+2023-01-26 23:37:16:487727: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:37:16:499523: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:37:16:511803: Microsoft Edge Dev Facebook 🔊 - 'y'
+2023-01-26 23:37:16:523539: Microsoft Edge Dev Facebook 🔊 - 'y'
+2023-01-26 23:37:16:535666: Microsoft Edge Dev Facebook 🔊 - 'x'
+2023-01-26 23:37:16:547584: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:37:16:559120: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:37:16:570794: Microsoft Edge Dev Facebook 🔊 - 'ãy'
+2023-01-26 23:37:16:582934: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:16:596143: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:16:614989: Microsoft Edge Dev Facebook 🔊 - 'g'
+2023-01-26 23:37:16:628709: Microsoft Edge Dev Facebook 🔊 - 'g'
+2023-01-26 23:37:16:768896: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:37:16:899400: Microsoft Edge Dev Facebook 🔊 - 'w'
+2023-01-26 23:37:16:915948: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:37:16:928776: Microsoft Edge Dev Facebook 🔊 - 'ơ'
+2023-01-26 23:37:17:177561: Microsoft Edge Dev Facebook 🔊 - 'f'
+2023-01-26 23:37:17:190788: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:37:17:203445: Microsoft Edge Dev Facebook 🔊 - 'ờ'
+2023-01-26 23:37:17:307107: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:17:322586: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:17:501954: Microsoft Edge Dev Facebook 🔊 - 'k'
+2023-01-26 23:37:17:515589: Microsoft Edge Dev Facebook 🔊 - 'k'
+2023-01-26 23:37:17:711723: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:37:17:729190: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:37:17:906728: Microsoft Edge Dev Facebook 🔊 - 'n'
+2023-01-26 23:37:17:923242: Microsoft Edge Dev Facebook 🔊 - 'n'
+2023-01-26 23:37:18:086937: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:18:104847: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:18:245730: Microsoft Edge Dev Facebook 🔊 - 'c'
+2023-01-26 23:37:18:262659: Microsoft Edge Dev Facebook 🔊 - 'c'
+2023-01-26 23:37:19:215757: Microsoft Edge Dev Facebook 🔊 - 'e'
+2023-01-26 23:37:19:233908: Microsoft Edge Dev Facebook 🔊 - 'e'
+2023-01-26 23:37:19:630316: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:19:647473: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:19:949119: Microsoft Edge Dev Facebook 🔊 - 'h'
+2023-01-26 23:37:19:963680: Microsoft Edge Dev Facebook 🔊 - 'h'
+2023-01-26 23:37:20:124837: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:37:20:141438: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:37:21:070328: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:21:087231: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:37:21:904384: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:37:21:920986: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:37:22:208115: Microsoft Edge Dev Facebook 🔊 - 'r'
+2023-01-26 23:37:22:225435: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:37:22:242899: Microsoft Edge Dev Facebook 🔊 - 'ả'
+2023-01-26 23:37:23:259363: Microsoft Edge Dev Facebook 🔊 - Pressed at (1126.2738037109375, 698.0784301757812)
+2023-01-26 23:37:23:924690: Microsoft Edge Dev Facebook 🔊 - Released at (1104.562255859375, 699.3753051757812)
+2023-01-26 23:37:26:733694: Code  - Key.enter
+==> 2023-01-26 23:37:26:733694: Code  - K e y . s h i f t ' N ' ' N ' ' a ' ' a ' ' y ' ' y ' ' x ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ã y ' K e y . s p a c e K e y . s p a c e ' g ' ' g ' ' o ' ' w ' K e y . b a c k s p a c e ' ơ ' ' f ' K e y . b a c k s p a c e ' ờ ' K e y . s p a c e K e y . s p a c e ' k ' ' k ' ' i ' ' i ' ' n ' ' n ' K e y . s p a c e K e y . s p a c e ' c ' ' c ' ' e ' ' e ' K e y . s p a c e K e y . s p a c e ' h ' ' h ' ' a ' ' a ' K e y . s p a c e K e y . s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' r ' K e y . b a c k s p a c e ' ả ' P r e s s e d   a t   ( 1 1 2 6 . 2 7 3 8 0 3 7 1 0 9 3 7 5 ,   6 9 8 . 0 7 8 4 3 0 1 7 5 7 8 1 2 ) R e l e a s e d   a t   ( 1 1 0 4 . 5 6 2 2 5 5 8 5 9 3 7 5 ,   6 9 9 . 3 7 5 3 0 5 1 7 5 7 8 1 2 ) K e y . e n t e r
+2023-01-26 23:37:27:778729: Code  - Key.enter
+==> 2023-01-26 23:37:27:778729: Code  - K e y . e n t e r
+2023-01-26 23:37:30:439740: Code  - Pressed at (155.4752960205078, 168.36575317382812)
+2023-01-26 23:37:30:458747: Code  - Released at (155.4752960205078, 168.36575317382812)
+2023-01-26 23:37:33:324032: Code  - Pressed at (1354.6466064453125, 496.90460205078125)
+2023-01-26 23:37:33:352495: Code  - Released at (1354.6466064453125, 496.90460205078125)
+2023-01-26 23:37:34:774920: Code  - Pressed at (1348.384521484375, 484.2261962890625)
+2023-01-26 23:37:34:804517: Code  - Released at (1348.384521484375, 484.2261962890625)
+2023-01-26 23:37:38:839438: Code  - Pressed at (828.4066772460938, 18.511062622070312)
+2023-01-26 23:37:38:859150: Code  - Released at (828.4066772460938, 18.511062622070312)
+2023-01-26 23:37:40:374630: Code  - Pressed at (962.002197265625, 21.425460815429688)
+2023-01-26 23:37:40:399514: Code  - Released at (962.002197265625, 21.425460815429688)
+2023-01-26 23:38:36:887478: Code  - Pressed at (574.5081787109375, 372.1544189453125)
+2023-01-26 23:38:36:921443: Code  - Released at (574.5081787109375, 372.1544189453125)
+2023-01-26 23:38:40:781352: Code  - Pressed at (1339.0174560546875, 488.83660888671875)
+2023-01-26 23:38:40:852167: Code  - Released at (1339.0174560546875, 488.83660888671875)
+2023-01-26 23:38:53:431922: Code  - Pressed at (1417.6522216796875, 52.35231018066406)
+2023-01-26 23:38:53:456014: Code  - Released at (1417.6522216796875, 52.35231018066406)
+2023-01-26 23:39:52:787150: Code  - Pressed at (1338.4852294921875, 491.822021484375)
+2023-01-26 23:39:52:817469: Code  - Released at (1338.4852294921875, 491.822021484375)
+2023-01-26 23:39:55:471853: Code  - Pressed at (1041.441650390625, 651.1857299804688)
+2023-01-26 23:39:55:555841: Code  - Released at (1250.53125, 643.1541137695312)
+2023-01-26 23:40:04:922319: Microsoft Edge Dev Facebook 🔊 - Key.shift
+2023-01-26 23:40:04:937404: Microsoft Edge Dev Facebook 🔊 - 'A'
+2023-01-26 23:40:04:950204: Microsoft Edge Dev Facebook 🔊 - 'A'
+2023-01-26 23:40:04:962578: Microsoft Edge Dev Facebook 🔊 - 'w'
+2023-01-26 23:40:04:974297: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:04:986432: Microsoft Edge Dev Facebook 🔊 - 'Ă'
+2023-01-26 23:40:04:998486: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:05:010011: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:05:801597: Microsoft Edge Dev Facebook 🔊 - Key.shift
+2023-01-26 23:40:07:277745: Microsoft Edge Dev Facebook 🔊 - 'R'
+2023-01-26 23:40:07:294369: Microsoft Edge Dev Facebook 🔊 - 'R'
+2023-01-26 23:40:07:445653: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:40:07:461919: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:40:07:645001: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:40:07:659423: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:07:672808: Microsoft Edge Dev Facebook 🔊 - 'ô'
+2023-01-26 23:40:07:835736: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:40:07:856475: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:40:08:042316: Microsoft Edge Dev Facebook 🔊 - 'f'
+2023-01-26 23:40:08:055767: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:08:068789: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:08:081545: Microsoft Edge Dev Facebook 🔊 - 'ồi'
+2023-01-26 23:40:08:280070: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:08:293965: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:08:836532: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:08:853352: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:023198: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:039963: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:174877: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:191072: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:342016: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:359084: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:479315: Microsoft Edge Dev Facebook 🔊 - Key.shift
+2023-01-26 23:40:09:672087: Microsoft Edge Dev Facebook 🔊 - 'O'
+2023-01-26 23:40:09:687310: Microsoft Edge Dev Facebook 🔊 - 'O'
+2023-01-26 23:40:09:938322: Microsoft Edge Dev Facebook 🔊 - 'w'
+2023-01-26 23:40:09:953618: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:09:966205: Microsoft Edge Dev Facebook 🔊 - 'Ơ'
+2023-01-26 23:40:10:153925: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:40:10:181385: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:40:10:787918: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:10:804575: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:10:941893: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:10:958385: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:11:722272: Microsoft Edge Dev Facebook 🔊 - Key.shift
+2023-01-26 23:40:12:021162: Microsoft Edge Dev Facebook 🔊 - 'A'
+2023-01-26 23:40:12:039816: Microsoft Edge Dev Facebook 🔊 - 'A'
+2023-01-26 23:40:12:375992: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:12:390423: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:12:473369: Microsoft Edge Dev Facebook 🔊 - Key.shift
+2023-01-26 23:40:12:705959: Microsoft Edge Dev Facebook 🔊 - 'G'
+2023-01-26 23:40:12:724141: Microsoft Edge Dev Facebook 🔊 - 'G'
+2023-01-26 23:40:13:144060: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:40:13:161051: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:40:13:326834: Microsoft Edge Dev Facebook 🔊 - 'f'
+2023-01-26 23:40:13:340254: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:13:353763: Microsoft Edge Dev Facebook 🔊 - 'ò'
+2023-01-26 23:40:13:367043: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:40:13:379581: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:40:13:564103: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:13:576413: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:13:675988: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:40:13:691815: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:40:13:889167: Microsoft Edge Dev Facebook 🔊 - 'w'
+2023-01-26 23:40:13:902087: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:40:13:915166: Microsoft Edge Dev Facebook 🔊 - 'ă'
+2023-01-26 23:40:13:964722: Microsoft Edge Dev Facebook 🔊 - 'n'
+2023-01-26 23:40:13:977101: Microsoft Edge Dev Facebook 🔊 - 'n'
+2023-01-26 23:40:14:144064: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:14:160021: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:14:235181: Microsoft Edge Dev Facebook 🔊 - 'x'
+2023-01-26 23:40:14:251599: Microsoft Edge Dev Facebook 🔊 - 'x'
+2023-01-26 23:40:14:399189: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:40:14:416090: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:40:14:585914: Microsoft Edge Dev Facebook 🔊 - 'n'
+2023-01-26 23:40:14:603177: Microsoft Edge Dev Facebook 🔊 - 'n'
+2023-01-26 23:40:14:683067: Microsoft Edge Dev Facebook 🔊 - 'g'
+2023-01-26 23:40:14:696829: Microsoft Edge Dev Facebook 🔊 - 'g'
+2023-01-26 23:40:14:847147: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:14:862191: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:40:14:983911: Microsoft Edge Dev Facebook 🔊 - 'c'
+2023-01-26 23:40:15:000159: Microsoft Edge Dev Facebook 🔊 - 'c'
+2023-01-26 23:40:15:152972: Microsoft Edge Dev Facebook 🔊 - 'h'
+2023-01-26 23:40:15:169089: Microsoft Edge Dev Facebook 🔊 - 'h'
+2023-01-26 23:40:15:381265: Microsoft Edge Dev Facebook 🔊 - 'w'
+2023-01-26 23:40:15:393383: Microsoft Edge Dev Facebook 🔊 - 'ư'
+2023-01-26 23:40:15:653129: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:40:15:671096: Microsoft Edge Dev Facebook 🔊 - 'a'
+2023-01-26 23:40:22:013202: Code  - Key.enter
+==> 2023-01-26 23:40:22:013202: Code  - P r e s s e d   a t   ( 1 3 3 8 . 4 8 5 2 2 9 4 9 2 1 8 7 5 ,   4 9 1 . 8 2 2 0 2 1 4 8 4 3 7 5 ) R e l e a s e d   a t   ( 1 3 3 8 . 4 8 5 2 2 9 4 9 2 1 8 7 5 ,   4 9 1 . 8 2 2 0 2 1 4 8 4 3 7 5 ) P r e s s e d   a t   ( 1 0 4 1 . 4 4 1 6 5 0 3 9 0 6 2 5 ,   6 5 1 . 1 8 5 7 2 9 9 8 0 4 6 8 8 ) R e l e a s e d   a t   ( 1 2 5 0 . 5 3 1 2 5 ,   6 4 3 . 1 5 4 1 1 3 7 6 9 5 3 1 2 ) K e y . s h i f t ' A ' ' A ' ' w ' K e y . b a c k s p a c e ' Ă ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' R ' ' R ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' i ' ' i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ồ i ' K e y . s p a c e K e y . s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' O ' ' O ' ' w ' K e y . b a c k s p a c e ' Ơ ' ' i ' ' i ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' A ' ' A ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . s h i f t ' G ' ' G ' ' o ' ' o ' ' f ' K e y . b a c k s p a c e ' ò ' ' i ' ' i ' K e y . s p a c e K e y . s p a c e ' a ' ' a ' ' w ' K e y . b a c k s p a c e ' ă ' ' n ' ' n ' K e y . s p a c e K e y . s p a c e ' x ' ' x ' ' o ' ' o ' ' n ' ' n ' ' g ' ' g ' K e y . s p a c e K e y . s p a c e ' c ' ' c ' ' h ' ' h ' ' w ' ' ư ' ' a ' ' a ' K e y . e n t e r
+2023-01-26 23:40:23:051392: Code  - Key.enter
+==> 2023-01-26 23:40:23:051392: Code  - K e y . e n t e r
+2023-01-26 23:40:26:953978: Code  - Pressed at (1413.130615234375, 64.26579284667969)
+2023-01-26 23:40:26:978966: Code  - Released at (1413.130615234375, 64.26579284667969)
+2023-01-26 23:41:35:638418: Code  - Pressed at (1355.46728515625, 485.6491394042969)
+2023-01-26 23:41:35:666456: Code  - Released at (1355.46728515625, 485.6491394042969)
+2023-01-26 23:41:39:578224: Code  - Pressed at (1329.17578125, 503.0564270019531)
+2023-01-26 23:41:39:605019: Code  - Released at (1329.17578125, 503.0564270019531)
+2023-01-26 23:41:40:610652: Code  - Pressed at (859.5103759765625, 360.4994201660156)
+2023-01-26 23:41:40:634392: Code  - Released at (859.5103759765625, 360.4994201660156)
+2023-01-26 23:41:42:910269: Code  - Pressed at (1336.41259765625, 474.825927734375)
+2023-01-26 23:41:42:935814: Code  - Released at (1336.41259765625, 474.825927734375)
+2023-01-26 23:41:59:310406: Code  - Pressed at (973.4085083007812, 16.059417724609375)
+2023-01-26 23:41:59:334727: Code  - Released at (973.4085083007812, 16.059417724609375)
+2023-01-26 23:42:12:360212: Microsoft Edge Dev Facebook 🔊 - Key.shift
+2023-01-26 23:42:12:380397: Microsoft Edge Dev Facebook 🔊 - 'G'
+2023-01-26 23:42:12:395326: Microsoft Edge Dev Facebook 🔊 - 'G'
+2023-01-26 23:42:12:410160: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:42:12:426723: Microsoft Edge Dev Facebook 🔊 - 'o'
+2023-01-26 23:42:12:441714: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:42:12:457524: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:42:12:474598: Microsoft Edge Dev Facebook 🔊 - 'f'
+2023-01-26 23:42:12:491323: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:42:12:514518: Microsoft Edge Dev Facebook 🔊 - Key.backspace
+2023-01-26 23:42:12:547096: Microsoft Edge Dev Facebook 🔊 - 'òi'
+2023-01-26 23:42:12:607228: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:42:12:628583: Microsoft Edge Dev Facebook 🔊 - Key.space
+2023-01-26 23:42:12:651099: Microsoft Edge Dev Facebook 🔊 - 'g'
+2023-01-26 23:42:12:699063: Microsoft Edge Dev Facebook 🔊 - 'g'
+2023-01-26 23:42:12:715708: Microsoft Edge Dev Facebook 🔊 - 'i'
+2023-01-26 23:42:19:957559: Code  - Pressed at (733.7966918945312, 310.5669250488281)
+2023-01-26 23:42:19:985224: Code  - Released at (733.7966918945312, 310.5669250488281)
+2023-01-26 23:42:45:137400: Code  - Pressed at (844.4777221679688, 23.706222534179688)
+2023-01-26 23:42:45:161176: Code  - Released at (844.4777221679688, 23.706222534179688)
+2023-01-26 23:42:55:271596: Code  - Pressed at (991.765625, 39.40570068359375)
+2023-01-26 23:42:55:295871: Code  - Released at (991.765625, 39.40570068359375)
+2023-01-26 23:43:05:285483: Code  - Pressed at (704.2806396484375, 739.8768920898438)
+2023-01-26 23:43:05:314579: Code  - Released at (704.2806396484375, 739.8768920898438)
+2023-01-26 23:43:05:452844: Code  - Pressed at (704.2806396484375, 739.8768920898438)
+2023-01-26 23:43:05:477661: Code  - Released at (704.2806396484375, 739.8768920898438)
+2023-01-26 23:43:05:635643: Code  - Pressed at (704.2806396484375, 739.8768920898438)
+2023-01-26 23:43:05:660778: Code  - Released at (704.2806396484375, 739.8768920898438)
+2023-01-26 23:43:09:683880: Code  - Pressed at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:09:706461: Code  - Released at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:09:835560: Code  - Pressed at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:09:863347: Code  - Released at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:09:985264: Code  - Pressed at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:10:013609: Code  - Released at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:10:600691: Code  - Pressed at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:10:625188: Code  - Released at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:10:800520: Code  - Pressed at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:10:823376: Code  - Released at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:10:985627: Code  - Pressed at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:11:013316: Code  - Released at (541.1411743164062, 734.8601684570312)
+2023-01-26 23:43:13:332707: Code  - Pressed at (1423.031494140625, 502.5059509277344)
+2023-01-26 23:43:13:356454: Code  - Released at (1423.031494140625, 502.5059509277344)
+2023-01-26 23:44:59:109439: Code  - Pressed at (943.208984375, 331.2068786621094)
+2023-01-26 23:44:59:136889: Code  - Released at (943.208984375, 331.2068786621094)
+2023-01-26 23:45:01:322845: Code  - Pressed at (975.8402099609375, 27.398727416992188)
+2023-01-26 23:45:01:346179: Code  - Released at (975.8402099609375, 27.398727416992188)
+2023-01-26 23:45:03:988794: Code  - Pressed at (431.20452880859375, 376.3573303222656)
+2023-01-26 23:45:04:014763: Code  - Released at (431.20452880859375, 376.3573303222656)
+2023-01-26 23:45:06:854156: Code  - Pressed at (176.98915100097656, 358.8726501464844)
+2023-01-26 23:45:06:876775: Code  - Released at (176.98915100097656, 358.8726501464844)
+2023-01-26 23:45:17:255044: Code  - Pressed at (750.2783813476562, 19.730697631835938)
+2023-01-26 23:45:17:278485: Code  - Released at (750.2783813476562, 19.730697631835938)
+2023-01-26 23:45:24:055126: Code  - Pressed at (59.600921630859375, 40.14198303222656)
+2023-01-26 23:45:24:082495: Code  - Released at (59.600921630859375, 40.14198303222656)
+2023-01-26 23:45:26:503818: Code server.py — Keylogger - Pressed at (887.3783569335938, 750.4190063476562)
+2023-01-26 23:45:26:600232: Microsoft Edge Dev  - Released at (887.3783569335938, 750.4190063476562)
+2023-01-26 23:45:28:819925: Microsoft Edge Dev  - Pressed at (111.50238037109375, 74.99336242675781)
+2023-01-26 23:45:28:855985: Microsoft Edge Dev  - Released at (111.50238037109375, 74.99336242675781)
+2023-01-26 23:45:33:865151: Microsoft Edge Dev  - Key.shift
+2023-01-26 23:45:33:878680: Microsoft Edge Dev  - 'S'
+2023-01-26 23:45:33:888461: Microsoft Edge Dev  - 'S'
+2023-01-26 23:45:33:898462: Microsoft Edge Dev  - 'u'
+2023-01-26 23:45:33:907791: Microsoft Edge Dev  - 'u'
+2023-01-26 23:45:33:917644: Microsoft Edge Dev  - 'c'
+2023-01-26 23:45:33:927236: Microsoft Edge Dev  - 'c'
+2023-01-26 23:45:34:028344: Microsoft Edge Dev  - 's'
+2023-01-26 23:45:34:042760: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:34:052853: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:34:063198: Microsoft Edge Dev  - 'úc'
+2023-01-26 23:45:34:167335: Microsoft Edge Dev  - Key.space
+2023-01-26 23:45:34:179863: Microsoft Edge Dev  - Key.space
+2023-01-26 23:45:34:387651: Microsoft Edge Dev  - 'm'
+2023-01-26 23:45:34:402018: Microsoft Edge Dev  - 'm'
+2023-01-26 23:45:34:591110: Microsoft Edge Dev  - 'i'
+2023-01-26 23:45:34:607313: Microsoft Edge Dev  - 'i'
+2023-01-26 23:45:34:687420: Microsoft Edge Dev  - 'e'
+2023-01-26 23:45:34:704496: Microsoft Edge Dev  - 'e'
+2023-01-26 23:45:34:874484: Microsoft Edge Dev  - 'e'
+2023-01-26 23:45:34:888024: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:34:898494: Microsoft Edge Dev  - 'ê'
+2023-01-26 23:45:34:909071: Microsoft Edge Dev  - 'n'
+2023-01-26 23:45:34:919410: Microsoft Edge Dev  - 'n'
+2023-01-26 23:45:35:068112: Microsoft Edge Dev  - 'g'
+2023-01-26 23:45:35:083539: Microsoft Edge Dev  - 'g'
+2023-01-26 23:45:35:289402: Microsoft Edge Dev  - 'j'
+2023-01-26 23:45:35:303818: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:35:314085: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:35:326622: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:35:336420: Microsoft Edge Dev  - 'ệng'
+2023-01-26 23:45:35:530946: Microsoft Edge Dev  - Key.space
+2023-01-26 23:45:35:546302: Microsoft Edge Dev  - Key.space
+2023-01-26 23:45:35:662441: Microsoft Edge Dev  - 'd'
+2023-01-26 23:45:35:676830: Microsoft Edge Dev  - 'd'
+2023-01-26 23:45:35:857495: Microsoft Edge Dev  - 'd'
+2023-01-26 23:45:35:869477: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:35:879623: Microsoft Edge Dev  - 'đ'
+2023-01-26 23:45:35:911662: Microsoft Edge Dev  - 'o'
+2023-01-26 23:45:35:921908: Microsoft Edge Dev  - 'o'
+2023-01-26 23:45:36:080267: Microsoft Edge Dev  - 'o'
+2023-01-26 23:45:36:096219: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:36:106056: Microsoft Edge Dev  - 'ô'
+2023-01-26 23:45:36:200793: Microsoft Edge Dev  - 'f'
+2023-01-26 23:45:36:296514: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:36:308670: Microsoft Edge Dev  - 'ồ'
+2023-01-26 23:45:36:346093: Microsoft Edge Dev  - Key.space
+2023-01-26 23:45:36:356794: Microsoft Edge Dev  - Key.space
+2023-01-26 23:45:36:473122: Microsoft Edge Dev  - 'd'
+2023-01-26 23:45:36:484497: Microsoft Edge Dev  - 'd'
+2023-01-26 23:45:36:675917: Microsoft Edge Dev  - 'd'
+2023-01-26 23:45:36:686713: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:45:36:697715: Microsoft Edge Dev  - 'đ'
+2023-01-26 23:45:36:748264: Microsoft Edge Dev  - 'i'
+2023-01-26 23:45:36:759350: Microsoft Edge Dev  - 'i'
+2023-01-26 23:45:38:826288: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 23:45:38:826288: Microsoft Edge Dev  - P r e s s e d   a t   ( 9 4 3 . 2 0 8 9 8 4 3 7 5 ,   3 3 1 . 2 0 6 8 7 8 6 6 2 1 0 9 4 ) R e l e a s e d   a t   ( 9 4 3 . 2 0 8 9 8 4 3 7 5 ,   3 3 1 . 2 0 6 8 7 8 6 6 2 1 0 9 4 ) P r e s s e d   a t   ( 9 7 5 . 8 4 0 2 0 9 9 6 0 9 3 7 5 ,   2 7 . 3 9 8 7 2 7 4 1 6 9 9 2 1 8 8 ) R e l e a s e d   a t   ( 9 7 5 . 8 4 0 2 0 9 9 6 0 9 3 7 5 ,   2 7 . 3 9 8 7 2 7 4 1 6 9 9 2 1 8 8 ) P r e s s e d   a t   ( 4 3 1 . 2 0 4 5 2 8 8 0 8 5 9 3 7 5 ,   3 7 6 . 3 5 7 3 3 0 3 2 2 2 6 5 6 ) R e l e a s e d   a t   ( 4 3 1 . 2 0 4 5 2 8 8 0 8 5 9 3 7 5 ,   3 7 6 . 3 5 7 3 3 0 3 2 2 2 6 5 6 ) P r e s s e d   a t   ( 1 7 6 . 9 8 9 1 5 1 0 0 0 9 7 6 5 6 ,   3 5 8 . 8 7 2 6 5 0 1 4 6 4 8 4 4 ) R e l e a s e d   a t   ( 1 7 6 . 9 8 9 1 5 1 0 0 0 9 7 6 5 6 ,   3 5 8 . 8 7 2 6 5 0 1 4 6 4 8 4 4 ) P r e s s e d   a t   ( 7 5 0 . 2 7 8 3 8 1 3 4 7 6 5 6 2 ,   1 9 . 7 3 0 6 9 7 6 3 1 8 3 5 9 3 8 ) R e l e a s e d   a t   ( 7 5 0 . 2 7 8 3 8 1 3 4 7 6 5 6 2 ,   1 9 . 7 3 0 6 9 7 6 3 1 8 3 5 9 3 8 ) P r e s s e d   a t   ( 5 9 . 6 0 0 9 2 1 6 3 0 8 5 9 3 7 5 ,   4 0 . 1 4 1 9 8 3 0 3 2 2 2 6 5 6 ) R e l e a s e d   a t   ( 5 9 . 6 0 0 9 2 1 6 3 0 8 5 9 3 7 5 ,   4 0 . 1 4 1 9 8 3 0 3 2 2 2 6 5 6 ) P r e s s e d   a t   ( 8 8 7 . 3 7 8 3 5 6 9 3 3 5 9 3 8 ,   7 5 0 . 4 1 9 0 0 6 3 4 7 6 5 6 2 ) R e l e a s e d   a t   ( 8 8 7 . 3 7 8 3 5 6 9 3 3 5 9 3 8 ,   7 5 0 . 4 1 9 0 0 6 3 4 7 6 5 6 2 ) P r e s s e d   a t   ( 1 1 1 . 5 0 2 3 8 0 3 7 1 0 9 3 7 5 ,   7 4 . 9 9 3 3 6 2 4 2 6 7 5 7 8 1 ) R e l e a s e d   a t   ( 1 1 1 . 5 0 2 3 8 0 3 7 1 0 9 3 7 5 ,   7 4 . 9 9 3 3 6 2 4 2 6 7 5 7 8 1 ) K e y . s h i f t ' S ' ' S ' ' u ' ' u ' ' c ' ' c ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ú c ' K e y . s p a c e K e y . s p a c e ' m ' ' m ' ' i ' ' i ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' ' n ' ' n ' ' g ' ' g ' ' j ' K e y . b a c k s p a c e K e y . b a c k s p a c e K e y . b a c k s p a c e ' ệ n g ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' f ' K e y . b a c k s p a c e ' ồ ' K e y . s p a c e K e y . s p a c e ' d ' ' d ' ' d ' K e y . b a c k s p a c e ' đ ' ' i ' ' i ' K e y . e n t e r
+2023-01-26 23:45:40:317128: Code server.py — Keylogger - Key.enter
+==> 2023-01-26 23:45:40:317128: Code server.py — Keylogger - K e y . e n t e r
+2023-01-26 23:45:44:367453: Code server.py — Keylogger - Pressed at (699.996337890625, 82.0946044921875)
+2023-01-26 23:45:44:390183: Code server.py — Keylogger - Released at (699.996337890625, 82.0946044921875)
+2023-01-26 23:45:47:769533: Code 2023-01-26 23:45.txt — Keylogger - Pressed at (60.44606018066406, 47.14512634277344)
+2023-01-26 23:45:47:796404: Code 2023-01-26 23:45.txt — Keylogger - Released at (60.44606018066406, 47.14512634277344)
+2023-01-26 23:46:30:579460: Code  - Pressed at (453.53424072265625, 201.620361328125)
+2023-01-26 23:46:33:712256: Code  - Released at (374.999267578125, 156.7139892578125)
+2023-01-26 23:46:42:616450: Code  - Key.cmd
+2023-01-26 23:46:42:630835: Code  - Clipboard: 23-01-26 23:45:47:783669: Code 2023-01-26 23:45.txt — Keylogger - Pressed at (60.44606018066406, 47.14512634277344)
+2023-01-26 23:45:47:796404: Code 2023-01-26 23:45.txt — Keylogger - Released at (60.44606018066406, 47.14512634277344)
+
+2023-01-26 23:46:42:648341: Code  - 'c'
+2023-01-26 23:46:44:044919: Code  - Pressed at (143.003173828125, 403.45452880859375)
+2023-01-26 23:46:44:069050: Code  - Released at (143.003173828125, 403.45452880859375)
+2023-01-26 23:46:59:136860: Microsoft Edge Dev  - Key.shift
+2023-01-26 23:46:59:148313: Microsoft Edge Dev  - 'O'
+2023-01-26 23:46:59:157755: Microsoft Edge Dev  - 'O'
+2023-01-26 23:46:59:167151: Microsoft Edge Dev  - 'k'
+2023-01-26 23:46:59:177589: Microsoft Edge Dev  - 'k'
+2023-01-26 23:46:59:188246: Microsoft Edge Dev  - 'e'
+2023-01-26 23:46:59:197427: Microsoft Edge Dev  - 'e'
+2023-01-26 23:46:59:206900: Microsoft Edge Dev  - 'e'
+2023-01-26 23:46:59:216458: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:46:59:225829: Microsoft Edge Dev  - 'ê'
+2023-01-26 23:46:59:234957: Microsoft Edge Dev  - 'y'
+2023-01-26 23:46:59:244382: Microsoft Edge Dev  - 'y'
+2023-01-26 23:46:59:253608: Microsoft Edge Dev  - 'y'
+2023-01-26 23:46:59:262566: Microsoft Edge Dev  - 'y'
+2023-01-26 23:47:02:781194: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 23:47:02:781194: Microsoft Edge Dev  - P r e s s e d   a t   ( 6 9 9 . 9 9 6 3 3 7 8 9 0 6 2 5 ,   8 2 . 0 9 4 6 0 4 4 9 2 1 8 7 5 ) R e l e a s e d   a t   ( 6 9 9 . 9 9 6 3 3 7 8 9 0 6 2 5 ,   8 2 . 0 9 4 6 0 4 4 9 2 1 8 7 5 ) P r e s s e d   a t   ( 6 0 . 4 4 6 0 6 0 1 8 0 6 6 4 0 6 ,   4 7 . 1 4 5 1 2 6 3 4 2 7 7 3 4 4 ) R e l e a s e d   a t   ( 6 0 . 4 4 6 0 6 0 1 8 0 6 6 4 0 6 ,   4 7 . 1 4 5 1 2 6 3 4 2 7 7 3 4 4 ) P r e s s e d   a t   ( 4 5 3 . 5 3 4 2 4 0 7 2 2 6 5 6 2 5 ,   2 0 1 . 6 2 0 3 6 1 3 2 8 1 2 5 ) R e l e a s e d   a t   ( 3 7 4 . 9 9 9 2 6 7 5 7 8 1 2 5 ,   1 5 6 . 7 1 3 9 8 9 2 5 7 8 1 2 5 ) K e y . c m d P r e s s e d   a t   ( 1 4 3 . 0 0 3 1 7 3 8 2 8 1 2 5 ,   4 0 3 . 4 5 4 5 2 8 8 0 8 5 9 3 7 5 ) R e l e a s e d   a t   ( 1 4 3 . 0 0 3 1 7 3 8 2 8 1 2 5 ,   4 0 3 . 4 5 4 5 2 8 8 0 8 5 9 3 7 5 ) K e y . s h i f t ' O ' ' O ' ' k ' ' k ' ' e ' ' e ' ' e ' K e y . b a c k s p a c e ' ê ' ' y ' ' y ' ' y ' ' y ' K e y . e n t e r
+2023-01-26 23:47:04:110874: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 23:47:04:110874: Microsoft Edge Dev  - K e y . e n t e r
+2023-01-26 23:47:04:130219: Microsoft Edge Dev  - Key.shift
+2023-01-26 23:47:04:142663: Microsoft Edge Dev  - 'N'
+2023-01-26 23:47:04:155238: Microsoft Edge Dev  - 'N'
+2023-01-26 23:47:04:166673: Microsoft Edge Dev  - 'g'
+2023-01-26 23:47:04:178052: Microsoft Edge Dev  - 'g'
+2023-01-26 23:47:04:190961: Microsoft Edge Dev  - 'u'
+2023-01-26 23:47:04:203005: Microsoft Edge Dev  - 'u'
+2023-01-26 23:47:06:216240: Microsoft Edge Dev  - ','
+2023-01-26 23:47:06:226740: Microsoft Edge Dev  - ','
+2023-01-26 23:47:06:484831: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:06:500054: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:06:751323: Microsoft Edge Dev  - 'h'
+2023-01-26 23:47:06:767912: Microsoft Edge Dev  - 'h'
+2023-01-26 23:47:07:007903: Microsoft Edge Dev  - 'o'
+2023-01-26 23:47:07:022380: Microsoft Edge Dev  - 'o'
+2023-01-26 23:47:07:166157: Microsoft Edge Dev  - 'o'
+2023-01-26 23:47:07:177316: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:07:187828: Microsoft Edge Dev  - 'ô'
+2023-01-26 23:47:07:312139: Microsoft Edge Dev  - 'i'
+2023-01-26 23:47:07:326758: Microsoft Edge Dev  - 'i'
+2023-01-26 23:47:07:459173: Microsoft Edge Dev  - 'f'
+2023-01-26 23:47:07:474302: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:07:485320: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:07:496298: Microsoft Edge Dev  - 'ồi'
+2023-01-26 23:47:07:652553: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:07:663134: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:07:783927: Microsoft Edge Dev  - 's'
+2023-01-26 23:47:07:796082: Microsoft Edge Dev  - 's'
+2023-01-26 23:47:08:055419: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:08:070395: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:08:308903: Microsoft Edge Dev  - 'w'
+2023-01-26 23:47:08:319658: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:08:329781: Microsoft Edge Dev  - 'ă'
+2023-01-26 23:47:08:433463: Microsoft Edge Dev  - 'p'
+2023-01-26 23:47:08:448986: Microsoft Edge Dev  - 'p'
+2023-01-26 23:47:08:568209: Microsoft Edge Dev  - 's'
+2023-01-26 23:47:08:578203: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:08:588026: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:08:598236: Microsoft Edge Dev  - 'ắp'
+2023-01-26 23:47:08:724353: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:08:735009: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:08:906154: Microsoft Edge Dev  - 'q'
+2023-01-26 23:47:08:918703: Microsoft Edge Dev  - 'q'
+2023-01-26 23:47:09:062410: Microsoft Edge Dev  - 'u'
+2023-01-26 23:47:09:075819: Microsoft Edge Dev  - 'u'
+2023-01-26 23:47:09:190518: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:09:201936: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:09:322159: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:09:336035: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:09:502739: Microsoft Edge Dev  - 'n'
+2023-01-26 23:47:09:513458: Microsoft Edge Dev  - 'n'
+2023-01-26 23:47:09:674787: Microsoft Edge Dev  - 'g'
+2023-01-26 23:47:09:685540: Microsoft Edge Dev  - 'g'
+2023-01-26 23:47:09:788603: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:09:801858: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:09:910817: Microsoft Edge Dev  - 'f'
+2023-01-26 23:47:09:924171: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:09:935228: Microsoft Edge Dev  - 'à'
+2023-01-26 23:47:10:118673: Microsoft Edge Dev  - 'y'
+2023-01-26 23:47:10:133804: Microsoft Edge Dev  - 'y'
+2023-01-26 23:47:10:359462: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:10:369924: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:10:564183: Microsoft Edge Dev  - 'm'
+2023-01-26 23:47:10:579669: Microsoft Edge Dev  - 'm'
+2023-01-26 23:47:10:781443: Microsoft Edge Dev  - 'o'
+2023-01-26 23:47:10:796445: Microsoft Edge Dev  - 'o'
+2023-01-26 23:47:10:953601: Microsoft Edge Dev  - 'i'
+2023-01-26 23:47:10:969534: Microsoft Edge Dev  - 'i'
+2023-01-26 23:47:10:980500: Microsoft Edge Dev  - 'w'
+2023-01-26 23:47:10:991161: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:11:001216: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:11:011738: Microsoft Edge Dev  - 'ơi'
+2023-01-26 23:47:11:202935: Microsoft Edge Dev  - 's'
+2023-01-26 23:47:11:213138: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:11:223021: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:11:233318: Microsoft Edge Dev  - 'ới'
+2023-01-26 23:47:11:319148: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:11:329704: Microsoft Edge Dev  - Key.space
+2023-01-26 23:47:11:508188: Microsoft Edge Dev  - 'n'
+2023-01-26 23:47:11:524455: Microsoft Edge Dev  - 'n'
+2023-01-26 23:47:11:671224: Microsoft Edge Dev  - 'u'
+2023-01-26 23:47:11:685530: Microsoft Edge Dev  - 'u'
+2023-01-26 23:47:11:750445: Microsoft Edge Dev  - 'w'
+2023-01-26 23:47:11:763834: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:11:779516: Microsoft Edge Dev  - 'ư'
+2023-01-26 23:47:11:962315: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:11:991048: Microsoft Edge Dev  - 'a'
+2023-01-26 23:47:12:619445: Microsoft Edge Dev  - 'x'
+2023-01-26 23:47:12:630643: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:12:640547: Microsoft Edge Dev  - Key.backspace
+2023-01-26 23:47:12:650658: Microsoft Edge Dev  - 'ữa'
+2023-01-26 23:47:14:403964: Microsoft Edge Dev  - Key.enter
+==> 2023-01-26 23:47:14:403964: Microsoft Edge Dev  - K e y . s h i f t ' N ' ' N ' ' g ' ' g ' ' u ' ' u ' ' , ' ' , ' K e y . s p a c e K e y . s p a c e ' h ' ' h ' ' o ' ' o ' ' o ' K e y . b a c k s p a c e ' ô ' ' i ' ' i ' ' f ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ồ i ' K e y . s p a c e K e y . s p a c e ' s ' ' s ' ' a ' ' a ' ' w ' K e y . b a c k s p a c e ' ă ' ' p ' ' p ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ắ p ' K e y . s p a c e K e y . s p a c e ' q ' ' q ' ' u ' ' u ' ' a ' ' a ' K e y . s p a c e K e y . s p a c e ' n ' ' n ' ' g ' ' g ' ' a ' ' a ' ' f ' K e y . b a c k s p a c e ' à ' ' y ' ' y ' K e y . s p a c e K e y . s p a c e ' m ' ' m ' ' o ' ' o ' ' i ' ' i ' ' w ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ơ i ' ' s ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ớ i ' K e y . s p a c e K e y . s p a c e ' n ' ' n ' ' u ' ' u ' ' w ' K e y . b a c k s p a c e ' ư ' ' a ' ' a ' ' x ' K e y . b a c k s p a c e K e y . b a c k s p a c e ' ữ a ' K e y . e n t e r
+2023-01-26 23:47:15:901878: Code  - Key.enter
+==> 2023-01-26 23:47:15:901878: Code  - K e y . e n t e r
+2023-01-26 23:47:16:105739: Code  - Pressed at (521.2879638671875, 188.54449462890625)
+2023-01-26 23:47:16:125857: Code  - Released at (521.2879638671875, 188.54449462890625)
+2023-01-26 23:47:18:989704: Code  - Pressed at (13.901443481445312, 42.08338928222656)
+2023-01-26 23:47:19:012415: Code  - Released at (13.901443481445312, 42.08338928222656)
