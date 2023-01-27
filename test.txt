@@ -1,0 +1,16 @@
+hello.txt
+this is a test text
+replace_values = ["'", "Key.space", "Key.shift", "Key.ctrl", "Key.alt", "Key.cmd"]
+replace_with = ["", " ", "", "", "", ""]
+
+for i in range(len(replace_values)):
+    key = key.replace(replace_values[i], replace_with[i])
+
+replace_values = ["'", "Key.space", "Key.shift", "Key.ctrl", "Key.alt", "Key.cmd"]
+replace_with = ["", " ", "", "", "", ""]
+
+for i in range(len(replace_values)):
+    key = key.replace(replace_values[i], replace_with[i])
+
+hello
+hello
