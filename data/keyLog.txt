@@ -52,3 +52,61 @@
 2023-01-27 19:37:38:496887: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27.csv - Keylogger - Replit and 4 more pages - Personal - Microsoft​ Edge - Released - Left Click at (325, 540)
 2023-01-27 19:37:41:121989: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:21:995400_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 4 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (281, 469)
 2023-01-27 19:37:44:251707: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:20:236186_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 4 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1201, 1031)
+2023-01-27 19:43:45:436746: Windows PowerShell - Pressed - Left Click at (1114, 1051)
+2023-01-27 19:43:48:353404: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:20:236186_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1214, 25)
+2023-01-27 19:43:50:376621: Using .env Files for Environment Variables in Python Applications - DEV Community 👩‍💻👨‍💻 and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (234, 15)
+2023-01-27 19:43:53:272525: (1) Facebook and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1701, 143)
+2023-01-27 19:43:57:035269: (1) Facebook and 3 more pages - Personal - Microsoft​ Edge - Pressed - Right Click at (1686, 155)
+2023-01-27 19:43:58:516166: (1) Facebook and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1587, 947)
+2023-01-27 19:43:59:117257: (1) Facebook and 3 more pages - Personal - Microsoft​ Edge - Released - Left Click at (1587, 947)
+2023-01-27 19:44:01:252889: (1) Messenger | Facebook and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1053, 1051)
+2023-01-27 19:44:03:445259: Keylogger - Pressed - Left Click at (965, 173)
+2023-01-27 19:44:07:410261: Keylogger - 'd'
+2023-01-27 19:44:10:821973: Keylogger - Pressed - Left Click at (1324, 453)
+2023-01-27 19:44:10:979418: Keylogger - Key.enter
+2023-01-27 19:44:18:633335: (1) Messenger | Facebook and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1792, 146)
+2023-01-27 19:44:20:578857: Messenger | Facebook and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1792, 146)
+2023-01-27 19:44:22:190994: Messenger | Facebook and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (852, 13)
+2023-01-27 19:44:22:786542: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:20:236186_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Released - Left Click at (852, 13)
+2023-01-27 19:44:25:132190: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:20:236186_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (263, 533)
+2023-01-27 19:44:31:721431: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:20:236186_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Right Click at (1498, 33)
+2023-01-27 19:44:34:285602: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:20:236186_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1261, 145)
+2023-01-27 19:44:42:861290: logs/WindowsWindows-10-10.0.22621-SP0keylogger.py - Keylogger - Visual Studio Code/2023-01-27 19:37:20:236186_*Untitled - Notepad_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (276, 500)
+2023-01-27 19:44:45:230149: logs/WindowsWindows-10-10.0.22621-SP0Windows PowerShell/2023-01-27 19:44:09:334849_Keylogger_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (346, 419)
+2023-01-27 19:44:47:928906: logs/WindowsWindows-10-10.0.22621-SP0Windows PowerShell/2023-01-27 19:43:55:245500_(1) Facebook and 3 more pages - Personal - Microsoft​ Edge_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (272, 455)
+2023-01-27 19:44:48:505040: logs/WindowsWindows-10-10.0.22621-SP0Windows PowerShell/2023-01-27 19:43:55:245500_(1) Facebook and 3 more pages - Personal - Microsoft​ Edge_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Released - Left Click at (272, 455)
+2023-01-27 19:44:53:263168: logs/WindowsWindows-10-10.0.22621-SP0Windows PowerShell/2023-01-27 19:44:06:029507_Keylogger_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (966, 147)
+2023-01-27 19:44:55:743095: logs/WindowsWindows-10-10.0.22621-SP0Windows PowerShell/2023-01-27 19:44:06:029507_Keylogger_screenshot.png - Keylogger - Replit and 3 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1061, 1031)
+2023-01-27 19:44:58:972835: Keylogger - Pressed - Left Click at (1079, 31)
+2023-01-27 19:45:01:694074: Keylogger - Pressed - Left Click at (1247, 1032)
+2023-01-27 19:47:11:808577: Windows PowerShell - Pressed - Left Click at (1179, 214)
+2023-01-27 19:47:13:733176: Windows PowerShell - Released - Left Click at (1114, 184)
+2023-01-27 19:47:15:773147: Windows PowerShell - Pressed - Left Click at (1859, 466)
+2023-01-27 19:47:17:871979: Windows PowerShell - Released - Left Click at (1178, 467)
+2023-01-27 19:47:19:504268: Windows PowerShell - Pressed - Left Click at (1441, 798)
+2023-01-27 19:47:20:083172: Keylogger - Released - Left Click at (1441, 798)
+2023-01-27 19:47:21:845688: Keylogger - Pressed - Left Click at (1127, 1041)
+2023-01-27 19:47:24:069442: Fix writeLog for suitable with server · pzcuong/Keylogger@06b6c53 and 4 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1632, 21)
+2023-01-27 19:47:24:614418: Fix writeLog for suitable with server · pzcuong/Keylogger@06b6c53 and 4 more pages - Personal - Microsoft​ Edge - Released - Left Click at (1632, 21)
+2023-01-27 19:47:28:828639: New tab and 5 more pages - Personal - Microsoft​ Edge - 'w'
+2023-01-27 19:47:30:124563: New tab and 5 more pages - Personal - Microsoft​ Edge - Key.space
+2023-01-27 19:47:31:286044: New tab and 5 more pages - Personal - Microsoft​ Edge - 'h'
+2023-01-27 19:47:32:690118: New tab and 5 more pages - Personal - Microsoft​ Edge - Key.space
+2023-01-27 19:47:34:164830: New tab and 5 more pages - Personal - Microsoft​ Edge - 'a'
+2023-01-27 19:47:35:565279: New tab and 5 more pages - Personal - Microsoft​ Edge - 'i'
+2023-01-27 19:47:45:880558: New tab and 5 more pages - Personal - Microsoft​ Edge - 'l'
+2023-01-27 19:47:47:639056: New tab and 5 more pages - Personal - Microsoft​ Edge - 'e'
+2023-01-27 19:47:48:779646: New tab and 5 more pages - Personal - Microsoft​ Edge - 'b'
+2023-01-27 19:47:51:231011: New tab and 5 more pages - Personal - Microsoft​ Edge - 'a'
+2023-01-27 19:47:52:617285: New tab and 5 more pages - Personal - Microsoft​ Edge - Key.space
+2023-01-27 19:47:54:711545: New tab and 5 more pages - Personal - Microsoft​ Edge - 's'
+2023-01-27 19:47:56:157391: New tab and 5 more pages - Personal - Microsoft​ Edge - 'p'
+2023-01-27 19:47:57:652131: New tab and 5 more pages - Personal - Microsoft​ Edge - 'p'
+2023-01-27 19:47:58:763065: New tab and 5 more pages - Personal - Microsoft​ Edge - 't'
+2023-01-27 19:48:08:061002: win lag when tracking keybard and mouse pynput - Tìm trên Google and 5 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1255, 1044)
+2023-01-27 19:48:11:290113: Windows PowerShell - Pressed - Left Click at (1317, 569)
+2023-01-27 19:48:13:947701: win lag when tracking keybard and mouse pynput - Tìm trên Google and 5 more pages - Personal - Microsoft​ Edge - Pressed - Right Click at (1372, 491)
+2023-01-27 19:48:14:852089: win lag when tracking keybard and mouse pynput - Tìm trên Google and 5 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1542, 644)
+2023-01-27 19:48:15:395471: win lag when tracking keybard and mouse pynput - Tìm trên Google and 5 more pages - Personal - Microsoft​ Edge - Released - Left Click at (1542, 644)
+2023-01-27 19:48:19:454431: win lag when tracking keybard and mouse pynput - Tìm trên Google and 5 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1252, 1044)
+2023-01-27 19:48:20:762833: Windows PowerShell - Pressed - Left Click at (1165, 190)
