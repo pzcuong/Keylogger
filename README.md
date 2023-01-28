@@ -19,7 +19,8 @@ Về sau, khi keylogger phát triển cao hơn nó không những ghi lại thao
 - [x] Theo dõi màn hình
 - [x] Gửi thông tin về server  
 - [x] Tự động tải và cài đặt thư viện còn thiếu để chạy script
-- [ ] Ẩn ứng dụng chạy ngầm
+- [x] Ẩn ứng dụng chạy ngầm
+- [x] Giả mạo dưới ứng dụng xem giờ
 
 ## [](https://github.com/pzcuong/QuanLyHocSinh/tree/master#c%C3%B4ng-ngh%E1%BB%87-s%E1%BB%AD-d%E1%BB%A5ng)Công nghệ sử dụng
 
@@ -32,7 +33,7 @@ Về sau, khi keylogger phát triển cao hơn nó không những ghi lại thao
 Yêu cầu:  
 
 ```
-python keylogger.py
+python time_gui.py
 ```
 
 ## [](https://github.com/pzcuong/QuanLyHocSinh/tree/master#license)License
