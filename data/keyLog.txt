@@ -110,3 +110,7 @@
 2023-01-27 19:48:15:395471: win lag when tracking keybard and mouse pynput - Tìm trên Google and 5 more pages - Personal - Microsoft​ Edge - Released - Left Click at (1542, 644)
 2023-01-27 19:48:19:454431: win lag when tracking keybard and mouse pynput - Tìm trên Google and 5 more pages - Personal - Microsoft​ Edge - Pressed - Left Click at (1252, 1044)
 2023-01-27 19:48:20:762833: Windows PowerShell - Pressed - Left Click at (1165, 190)
+==> 2023-01-28 10:14:22:859024: Code  - bbv
+==> 2023-01-28 10:14:26:657461: Code  - 
+==> 2023-01-28 11:28:59:320352: Microsoft Edge Dev  - rreeppll
+==> 2023-01-28 11:29:02:585835: Microsoft Edge Dev  - 

